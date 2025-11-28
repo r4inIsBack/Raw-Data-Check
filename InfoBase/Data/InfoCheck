@@ -1,8 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Gigared ARG" tvg-logo="logo", Telefe
-#EXTVLCOPT:http-referrer=https://www.gigared.com.ar/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"865b35fdb4c119f3ccfd4ee392928aef":"b43adf6d88b3befbf7f69a71dc273e46"}
-https://cdn02.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd
