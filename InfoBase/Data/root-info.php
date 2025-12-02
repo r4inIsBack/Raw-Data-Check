@@ -2165,13 +2165,13 @@ https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/34g8h1m2ng4w4kA576vp621w97Ztth36jct
 #EXTVLCOPT:adult-content=1
 https://dba738b5.high-mountain-114.site/blah3/XEn0ezAckFvTgxX3A7ZKZZj9hwJ3h4BOFb7VqxqPgxcKzdM/video.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WGUE" tvg-logo="logo", La Jefa 99.3 FM
+#EXTINF:-1 type="radio" tvg-name="WGUE" tvg-logo="logo", La Jefa 99.3 FM
 https://ice6.securenetsystems.net/WGUE?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WLPF" tvg-logo="logo", 99.7 FM The Wolf
+#EXTINF:-1 type="radio" tvg-name="WLPF" tvg-logo="logo", 99.7 FM The Wolf
 https://live.amperwave.net/manifest/audacy-wlfpfmaac-hlsc.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WHRK" tvg-logo="logo", K97
+#EXTINF:-1 type="radio" tvg-name="WHRK" tvg-logo="logo", K97
 https://stream.revma.ihrhls.com/zc2141/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WEGR" tvg-logo="logo", 102.7 Kiss FM
+#EXTINF:-1 type="radio" tvg-name="WEGR" tvg-logo="logo", 102.7 Kiss FM
 https://stream.revma.ihrhls.com/zc2133/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="KXHT" tvg-logo="logo", HOT1071 TRU HIP-HOP
+#EXTINF:-1 type="radio" tvg-name="KXHT" tvg-logo="logo", HOT1071 TRU HIP-HOP
 https://securenetg.com/listen/hot1071/hot.aac?0GKUSH_R4IN&DONTSTEAL
