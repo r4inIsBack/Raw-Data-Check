@@ -1,146 +1,146 @@
 #EXTM3U billed-msg="PRIVATE LIST MADE BY R4IN! (ANY RESELLERS WILL BE TRACKED DOWN)" max-conn="1" refresh="69" list-name="IPTV M3U"
 #EXTM3U
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", AMC
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", AMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_amc/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Arena Sport 1
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Arena Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_arena_sport1/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Arena Sport 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Arena Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN Black
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", AXN Black
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", AXN White
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", AXN White
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Cinemax
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Cinemax 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Cinemax 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo",Crime & Investigation
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Discovery
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Discovery
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Disney Channel
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_disney_channel/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Disney Jr
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Disney Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Eurosport 1
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_eurosport1/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Eurosport 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Eurosport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_eurosport2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Food Network
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_food_network/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo",HBO 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo",HBO 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_hbo_2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo",HBO 3
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo",HBO 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", H2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", H2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_h2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", History
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_history/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", HGTV
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_hgtv/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", JOJ Šport
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", JOJ Šport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", JOJ Šport 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", JOJ Šport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", MTV 00s
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", MTV 00s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", MTV 90s
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", MTV 90s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", MTV Hits
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", MTV Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_mtv_hits/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", National Geographic Channel
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", National Geographic Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngc/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", National Geographic Wild
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nick Jr
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nickelodeon
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nicktoon
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Nicktoon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nova Sport 1
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Nova Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Nova Sport 2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Nova Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Sport1
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Sport1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Sport2
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Sport2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/nvidia_sport2/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", TLC
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_tlc/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Antik SK" group-logo="logo" tvg-logo="logo", Travel Channel
+#EXTINF:-1 group-title="Antik TV SK" group-logo="logo" tvg-logo="logo", Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_travel_channel/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
@@ -333,6 +333,92 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_key={"6cf551b65ef233dda7ef03cee8bf4408":"ee3debba9d8acbb31e622edb62ede595"}
 http://144.22.222.241:8080/https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="DensGO" tvg-logo="logo", Rock Entertainment
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+http://210.210.155.66/h/h16/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png", AYM HD
+https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", CBS Sports HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Claro Sports
+http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Claro Sports México | GEO
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", ECDF
+https://val04.ride.com.ar/tvmia/an353/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Esports Max
+https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Esports Max 2 | Rek TV
+https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel TV
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel Racing
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
+https://aegis-cloudfront-1.tubi.video/0d2ea257-ada0-4b84-9247-ce1c53eb3f1d/playlist.m3u8
+#EXTINF:-1 group-title="Deportes"  tvg-logo="logo", FUTV CR
+http://45.5.119.97:12500/play/a066/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", ITV Deportes
+https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
+http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Marquee Sports Network
+https://marqueesports.global.transmit.live/hls/67cb394e6ef201b4705ce294/hls-itc/marquee1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", PX Sports
+http://45.5.119.97:12500/play/a04m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Tigo Sports
+http://45.5.119.97:12500/play/a05q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
+https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sport1 DE | GEO
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sportitalia
+https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sportitalia Solo Calcio
+https://edge-003.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Sports Audio GEO (No Video)
+https://mdstrm.com/audio/68531acded49f159d27dc597/live.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U 
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", AMC
+https://lb.digicom.bg:8443/amc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", AXN
+https://lb.digicom.bg:8443/axn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", Bloomberg BG
+https://lb.digicom.bg:8443/bloomberg/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", HGTV
+https://lb.digicom.bg:8443/HGTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", MTV
+https://lb.digicom.bg:8443/mtv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", TLC
+https://lb.digicom.bg:8443/TLCHD/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", Viasat Kino
+https://lb.digicom.bg:8443/TV1000/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DigiCom BG" tvg-logo="logo", Viju+ Comedy
+https://lb.digicom.bg:8443/VIPComedy/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Dish MVSHub" tvg-logo="logo", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7a100e0455dec1d27ea68eac2444a057":"518d58d1998e35f07ae8aa7a7716613a"}
+http://atlas.cdmx.gob.mx:8089/https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="DGO" tvg-logo="logo", AMC Series
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dfc77b4e965f5a638e76e0203782e41b":"fc942e3d37ce67a81979a7277e81d61d"}
+http://atlas.cdmx.gob.mx:8089/https://1161-tbx.vrioott.com/maschic/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="DGO" tvg-logo="logo", Cine Latino
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d9fa54005f23593b8a5ea3a610715285":"f976a85e90c20ed5c012d31d22d2f305"}
+http://atlas.cdmx.gob.mx:8089/https://1045-tbx.vrioott.com/cinelatino/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="logo", A&E HD
 http://45.5.119.97:12500/play/a03i/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="logo", Adult Swim
@@ -393,75 +479,6 @@ http://45.5.119.97:12500/play/a061/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 http://45.5.119.97:12500/play/a062/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
-#EXTM3U
-#EXTINF:-1 group-title="DensGO" tvg-logo="logo", Rock Entertainment
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-http://210.210.155.66/h/h16/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aym-sports-mx.png", AYM HD
-https://aym-as.otteravision.com/aym/as/as.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", CBS Sports HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Claro Sports
-http://45.5.119.97:12500/play/a024/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Claro Sports México | GEO
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", ECDF
-https://val04.ride.com.ar/tvmia/an353/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Esports Max
-https://streamyes.alsolnet.com/esportsmax/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Esports Max 2 | Rek TV
-https://streamlov.alsolnet.com/rektv/live/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel TV
-https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", FanDuel Racing
-https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
-https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/960px-FOX_wordmark.svg.png" , FOX en Tubi
-https://aegis-cloudfront-1.tubi.video/0d2ea257-ada0-4b84-9247-ce1c53eb3f1d/playlist.m3u8
-#EXTINF:-1 group-title="Deportes"  tvg-logo="logo", FUTV CR
-http://45.5.119.97:12500/play/a066/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", ITV Deportes
-https://thm-it-aymsports.otteravision.com/thm/it/it.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
-https://aym-laspo.otteravision.com/aym/laspo/laspo.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latin_american_sports_us.png", Latin America Sports
-http://45.5.119.97:12500/play/a04n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Marquee Sports Network
-https://marqueesports.global.transmit.live/hls/67cb394e6ef201b4705ce294/hls-itc/marquee1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", PX Sports
-http://45.5.119.97:12500/play/a04m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Tigo Sports
-http://45.5.119.97:12500/play/a05q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tudn-mexico-mx.png", TUDN USA
-https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sport1 DE | GEO
-https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sportitalia
-https://distribution.sportitalialive.it/sportitalia/sihd_abr2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Sportitalia Solo Calcio
-https://edge-003.streamup.eu/sportitaliain/sisolocalcio/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Deportes" tvg-logo="logo", Win Sports Audio GEO (No Video)
-https://mdstrm.com/audio/68531acded49f159d27dc597/live.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 group-title="Dish MVSHub" tvg-logo="logo", AXN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7a100e0455dec1d27ea68eac2444a057":"518d58d1998e35f07ae8aa7a7716613a"}
-http://atlas.cdmx.gob.mx:8089/https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 group-title="DGO" tvg-logo="logo", AMC Series
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dfc77b4e965f5a638e76e0203782e41b":"fc942e3d37ce67a81979a7277e81d61d"}
-http://181.32.7.202:8080/https://1161-tbx.vrioott.com/maschic/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="DGO" tvg-logo="logo", Cine Latino
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d9fa54005f23593b8a5ea3a610715285":"f976a85e90c20ed5c012d31d22d2f305"}
-http://181.32.7.202:8080/https://1045-tbx.vrioott.com/cinelatino/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="Fox Sports MX" tvg-logo="logo", Fox Sports 1 MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -532,6 +549,39 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIM-HD/default.mpd?0GKUSH_R4I
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"97cfeda35c2f42d6c2be729ea2945b12":"59c1f3c384bd0a25e817539d5fe6e24b"}
 https://nog-live1-ott.izzigo.tv/4/out/u/dash/AMCHD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", AMC
+https://dvr4.kablova.tv/AMC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Arena Sport
+https://dvr2.kablova.tv/Arena_sport/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", AXN
+https://dvr1.kablova.tv/AXN/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", AXN Black
+https://dvr2.kablova.tv/AXN_Black/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", AXN White
+https://dvr2.kablova.tv/AXN_White/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Cartoonito
+https://dvr2.kablova.tv/Boomerang/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", CNN
+https://dvr2.kablova.tv/CNN/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Discovery
+https://dvr1.kablova.tv/Discovery/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Disney Channel
+https://dvr2.kablova.tv/Disney/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Eurosport 1
+https://dvr2.kablova.tv/Eurosport_1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Eurosport 2
+https://dvr2.kablova.tv/Eurosport_2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", History
+https://dvr2.kablova.tv/History/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", MTV
+https://dvr2.kablova.tv/MTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Nova Sport 1
+https://dvr2.kablova.tv/Nova_Sport/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", Playboy
+https://dvr2.kablova.tv/Playboy/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", TLC
+https://dvr1.kablova.tv/TLC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -709,6 +759,14 @@ https://fl1.moveonjoy.com/ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/ABC_EAST/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", ACC Network
 https://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Albuquerque ABC
+http://fl1.moveonjoy.com/NM_Albuquerque_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Albuquerque CBS
+http://fl1.moveonjoy.com/NM_Albuquerque_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Albuquerque FOX
+http://fl1.moveonjoy.com/NM_Albuquerque_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Albuquerque NBC
+http://fl1.moveonjoy.com/NM_Albuquerque_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", AMC
 https://fl61.moveonjoy.com/AMC_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Antenna TV
@@ -753,8 +811,20 @@ https://fl7.moveonjoy.com/BET_Jams/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl7.moveonjoy.com/BET_SOUL/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Big Ten Network (BTN)
 https://fl7.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Birmingham ABC
+http://fl1.moveonjoy.com/AL_BIRMINGHAM_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Birmingham FOX
+http://fl1.moveonjoy.com/AL_BIRMINGHAM_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Birmingham NBC
+http://fl1.moveonjoy.com/AL_Birmingham_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Boomerang
 https://fl7.moveonjoy.com/BOOMERANG/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Boston ABC
+https://fl1.moveonjoy.com/MA_BOSTON_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Boston CBS
+https://fl1.moveonjoy.com/MA_BOSTON_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Boston FOX
+https://fl1.moveonjoy.com/MA_BOSTON_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Bounce
 https://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Bravo
@@ -767,6 +837,14 @@ https://fl61.moveonjoy.com/CARTOON_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl1.moveonjoy.com/CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", CBS Sports Network
 https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Charlotte ABC
+https://fl1.moveonjoy.com/NC_CHARLOTTE_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Charlotte CBS
+https://fl1.moveonjoy.com/NC_CHARLOTTE_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Charlotte FOX
+https://fl1.moveonjoy.com/NC_CHARLOTTE_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Charlotte NBC
+https://fl1.moveonjoy.com/NC_CHARLOTTE_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Chattanooga CBS
 https://fl1.moveonjoy.com/TN_CHATTANOOGA_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Chattanooga FOX
@@ -827,6 +905,12 @@ https://fl1.moveonjoy.com/CO_DENVER_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl1.moveonjoy.com/CO_Denver_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Denver NBC
 https://fl1.moveonjoy.com/CO_Denver_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Detroit ABC
+https://fl1.moveonjoy.com/MI_DETROIT_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Detroit FOX
+http://fl1.moveonjoy.com/MI_Detroit_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Detroit NBC
+http://fl1.moveonjoy.com/MI_Detroit_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Discovery Family Channel
 https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Discovery Life
@@ -837,6 +921,14 @@ https://fl31.moveonjoy.com/DISNEY/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/DISNEY_JR/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Disney XD
 http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Dothan ABC
+http://fl1.moveonjoy.com/AL_DOTHAN_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Dothan CBS
+http://fl1.moveonjoy.com/AL_DOTHAN_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Dothan FOX
+http://fl1.moveonjoy.com/AL_DOTHAN_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Dothan NBC
+http://fl1.moveonjoy.com/AL_DOTHAN_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", E! Entertainment
 https://fl61.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", ESPN
@@ -847,6 +939,8 @@ https://fl2.moveonjoy.com/ESPN_2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", ESPN U
 https://fl31.moveonjoy.com/ESPN_U/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", FanDuel TV
+https://fl31.moveonjoy.com/TVG/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", FanDuel Sports Detroit
 https://fl7.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Food Network
@@ -925,6 +1019,14 @@ https://fl1.moveonjoy.com/MS_JACKSON_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl1.moveonjoy.com/MS_JACKSON_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Jackson NBC
 https://fl1.moveonjoy.com/MS_JACKSON_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Jacksonville ABC
+https://fl1.moveonjoy.com/FL_JACKSONVILLE_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Jacksonville CBS
+https://fl1.moveonjoy.com/FL_JACKSONVILLE_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Jacksonville FOX
+https://fl1.moveonjoy.com/FL_Jacksonville_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Jacksonville NBC
+https://fl1.moveonjoy.com/FL_Jacksonville_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Kansas City ABC
 https://fl1.moveonjoy.com/MO_KANSAS_CITY_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Kansas City CBS
@@ -947,8 +1049,24 @@ https://fl31.moveonjoy.com/LIFETIME/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Los Angeles ABC
 https://fl1.moveonjoy.com/CA_LOS_ANGELES_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Los Angeles CBS
+https://fl1.moveonjoy.com/CA_Los_Angeles_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Louisville ABC
+https://fl1.moveonjoy.com/KY_LOUISVILLE_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Louisville CBS
+https://fl1.moveonjoy.com/KY_LOUISVILLE_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Louisville FOX
+https://fl1.moveonjoy.com/KY_Louisville_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Louisville NBC
+https://fl1.moveonjoy.com/KY_Louisville_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Love Nature
 https://fl31.moveonjoy.com/LOVE_NATURE/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Macon CBS
+https://fl1.moveonjoy.com/GA_MACON_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Macon NBC
+https://fl1.moveonjoy.com/GA_MACON_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Marquee Sports Network
+https://fl31.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Memphis FOX
 https://fl1.moveonjoy.com/TN_Memphis_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Memphis NBC
@@ -973,6 +1091,12 @@ https://fl1.moveonjoy.com/FL_Miami_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl1.moveonjoy.com/FL_Miami_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", MLB Network
 https://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Mobile ABC
+http://fl1.moveonjoy.com/AL_MOBILE_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Mobile CBS
+http://fl1.moveonjoy.com/AL_MOBILE_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Mobile FOX
+http://fl1.moveonjoy.com/AL_MOBILE_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", MSNBC
 https://fl31.moveonjoy.com/MSNBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", MSG
@@ -1041,12 +1165,22 @@ https://fl31.moveonjoy.com/Ovation/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/OXYGEN/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Paramount Network
 https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Philadelphia ABC
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Philadelphia CBS
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Philadelphia FOX
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Philadelphia NBC
+https://fl1.moveonjoy.com/PA_PHILADELPHIA_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Phoenix ABC
 https://fl1.moveonjoy.com/AZ_PHOENIX_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Phoenix FOX
 https://fl1.moveonjoy.com/AZ_PHOENIX_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Pop TV
 https://fl31.moveonjoy.com/Pop_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Portland ABC
+https://fl1.moveonjoy.com/OR_PORTLAND_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Pursuit Channel
 https://fl31.moveonjoy.com/Pursuit_Channel/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Reelz
@@ -1111,6 +1245,10 @@ https://fl31.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/SUNDANCE/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", SYFY
 https://fl31.moveonjoy.com/SYFY/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Tallahassee ABC
+https://fl1.moveonjoy.com/FL_Tallahassee_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Tallahassee NBC
+https://fl1.moveonjoy.com/FL_Tallahassee_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Tampa ABC
 https://fl61.moveonjoy.com/FL_Tampa_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Tampa CW44
@@ -1143,6 +1281,14 @@ http://fl31.moveonjoy.com/USA_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl7.moveonjoy.com/VICELAND/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", VH1
 https://fl61.moveonjoy.com/VH1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Washington DC ABC
+https://fl1.moveonjoy.com/DC_WASHINGTON_ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Washington DC CBS
+https://fl1.moveonjoy.com/DC_WASHINGTON_CBS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Washington DC FOX
+https://fl1.moveonjoy.com/DC_WASHINGTON_FOX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", Washington DC NBC
+https://fl1.moveonjoy.com/DC_WASHINGTON_NBC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", We TV
 https://fl31.moveonjoy.com/WE_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", West Palm Beach CBS
@@ -1555,6 +1701,8 @@ https://cors-proxy.cooks.fyi/https://wmpndt.lls.pbs.org/out/v1/4cb9c0b95c824c419
 #EXTINF:-1 group-title="Peru" group-logo="logo" tvg-logo="logo", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="Puerto Rico" group-logo="logo" tvg-logo="logo", Más TV Puerto Rico (WXWZ)
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Puerto Rico" group-logo="logo" tvg-logo="logo", TeleOnce (WLII-DT)
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
@@ -1669,13 +1817,32 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="logo", Blaze UK
 https://cors.almoroj.com/https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", FETV
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", USA NETWORK
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://gcdn-p9.teleuptv.net/d0dd02fc-b77f-4465-b077-4a6a2e1a0524/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", WGN 9
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://gcdn-p8.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", BET East
 https://cors-proxy.cooks.fyi/https://propefh1c17d.airspace-cdn.cbsivideo.com/out/v1/99d9cb48069746a7aeb98f51b9ec7e54/manifest.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", BYUtv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85877dfc046947328b273987bf8d5bb8":"c465f8a7b9db273043154005021d44b7"}
-https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.mpd
+https://content.uplynk.com/channel/2bb01dbf7c9b425db6854a4e45a57af8.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", FS1
+http://12.88.85.170:8081/udp/239.193.10.101:23901?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", FS2
+http://4.26.188.2/udp/239.193.10.102:23902?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", JBS
+https://tgn.bozztv.com/jbstvdvr/jbstv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", VH1 East
 https://cors-proxy.cooks.fyi/https://propedh55a7a.airspace-cdn.cbsivideo.com/out/v1/0009a2f77fc94928988c254966ef4176/manifest.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
@@ -1685,14 +1852,52 @@ https://live.field59.com/kake/kake1/chunklist.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://live.field59.com/kyur/kyur1/chunklist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Local" tvg-logo="logo", CBS 2 Los Angeles CA (KCBS-DT1)
 http://4.59.210.197:8815/udp/127.0.0.1:6008?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="USA Local" tvg-logo="logo", MegaTV (WSBS-DT)
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Cuenca Vision (WCEA-LD1)
+https://ss2.tvrdomi.com:1936/cuencavision/cuencavision/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", End Times TV 38.3 (KSCE-DT3)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Heartland Channel (KVVB-LD4)
+https://2-fss-2.streamhoster.com/pl_138/201950-2724904-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", KCHF TV (KCHF-DT1)
+https://5f75ff9cd9f1d.streamlock.net/kchf/kchf_studio_mq/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", KQSL TV
+https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", LIFE! 38.1 (KSCE-DT1)
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Live Now from Fox (KVVB-LD3)
+https://2-fss-2.streamhoster.com:443/pl_138/201950-1311088-1/chunklist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", MegaTV (WSBS-DT1)
 https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Local" tvg-logo="logo", NBC 4 Los Angeles CA (KNBC-DT1)
 http://4.59.210.197:8815/udp/127.0.0.1:6009?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USA Local" tvg-logo="logo", Philadelphia Restream
 http://72.94.88.253:54321?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="USA Local" tvg-logo="logo", 69 WFMZ-TV
-https://api.jaybirdtv.com/client/vuit/playlist.m3u8?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXZpY2VUeXBlIjo4LCJhcHBWZXJzaW9uIjoiMS4wLjAiLCJhcHBQbGF0Zm9ybSI6IndlYiIsImFwcE5hbWUiOiJ3ZWIvMS4xLjMiLCJsYXRpdHVkZSI6NDAuNjAyMjk0OTIxODc1LCJpcCI6IjEwNy4xMjcuNTMuNjYiLCJpc3MiOiJKYXliaXJkVFYiLCJkZXZpY2VJZCI6IjBmMGI1MjZmMDYyY2I4ZmYyMzI5Y2U4MWY1ODIyNDlkMmIwOTgxNTNlNWRhNzJhZmUzMGYwOTBmZGFjMmMwYmEiLCJ1c2VySWQiOjg0NzM5NzYwLCJqdHZDaGFubmVsSWQiOjEsImF1ZCI6Imh0dHBzOi8vYXBpLmpheWJpcmR0di5jb20iLCJjbGllbnRBcHBsaWNhdGlvbiI6NzEyMjI2OTIsImV4cCI6MTc2Mzk4NzQzOSwiaWF0IjoxNzYzMTg3NDM5LCJjaGFubmVsSWQiOiJMMnM2YkNHTUUiLCJsb25naXR1ZGUiOi03NS40NzE0MTI2NTg2OTE0fQ.VyZMm9dKuppyhjJR-fiN7g1uXjx8EB-Kx5XfM-v1QWs
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Smart Money Culture (KVQT-LD1)
+https://2-fss-1.streamhoster.com/pl_154/206904-4436778-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", SuperChannel Orlando WACX-TV55 (WACX-DT1)
+https://632c1f303ef2e.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Texas Family TV (KLNM-LD1)
+https://59d39900ebfb8.streamlock.net/texasfamilytv/texasfamilytv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", W14DK-D 14.1 TV Delmarva
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", W14DK-D 14.2 MainStreet Television
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", W14DK-D 14.4 WX Channel - Weather Channel (Delmarva)
+https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", W14DK-D 14.7 Heartland Channel
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-3078008/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", WATC-TV 57 (WATC-DT1)
+https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", Watchmen Christian TV (WBPI-CD1)
+https://2-fss-2.themediacdn.com/pl_138/205586-2129552-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", WMTY (W34FB-D1)
+https://2-fss-2.streamhoster.com/pl_120/207100-5740222-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", VIDA 38.2 (KSCE-DT2)
+https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", VideoMixTV 11.5 (WTXI-LD5)
+https://2-fss-2.streamhoster.com/pl_118/amlst:206436-3189488/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="USA Local" tvg-logo="logo", YouToo America - YTA KVVB.TV33 (KVVB-LD1)
+https://2-fss-2.streamhoster.com/pl_120/201950-1309230-1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="USANewsON" tvg-logo="logo", CNN
 #EXTVLCOPT:http-referrer=https://usnewson.com/
@@ -1953,9 +2158,20 @@ http://38.22.164.249:8090/telesecundaria/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:0 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
+#EXTINF:-1 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
 #EXTVLCOPT:adult-content=1
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/34g8h1m2ng4w4kA576vp621w97Ztth36jctdn7011h3s6s99dxbnm.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:0 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", (STARS-818) REI KAMIKI 神木麗
+#EXTINF:-1 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", (STARS-818) REI KAMIKI 神木麗
 #EXTVLCOPT:adult-content=1
 https://dba738b5.high-mountain-114.site/blah3/XEn0ezAckFvTgxX3A7ZKZZj9hwJ3h4BOFb7VqxqPgxcKzdM/video.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WGUE" tvg-logo="logo", La Jefa 99.3 FM
+https://ice6.securenetsystems.net/WGUE?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WLPF" tvg-logo="logo", 99.7 FM The Wolf
+https://live.amperwave.net/manifest/audacy-wlfpfmaac-hlsc.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WHRK" tvg-logo="logo", K97
+https://stream.revma.ihrhls.com/zc2141/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="WEGR" tvg-logo="logo", 102.7 Kiss FM
+https://stream.revma.ihrhls.com/zc2133/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 type="radio" group-title="Memphis TN" tvg-name="KXHT" tvg-logo="logo", HOT1071 TRU HIP-HOP
+https://securenetg.com/listen/hot1071/hot.aac?0GKUSH_R4IN&DONTSTEAL
