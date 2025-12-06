@@ -1,0 +1,261 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Adult Swim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-adultwin.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-animalplanet.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-axn.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-cartoon.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-c5n.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Cinecanal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-cinecanal.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Cronica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-cronica.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-disney.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Disney Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-disneyjunior.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", El Gourmet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-gourmet.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", El Nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-elnueve.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-eltrece.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espnar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espnlat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 2 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn2ar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 2 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn2lat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 3 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn3ar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 3 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn3lat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 4 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn4lat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 5 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn5lat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 6 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn6lat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN 7 LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espn7lt.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN Premium Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espnpremar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", ESPN Premium LATAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-espnpremlat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Fox Sports 1 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-fox1ar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Fox Sports 2 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-fox2ar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Fox Sports 3 Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-fox3ar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-food.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Golden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-golden.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbolat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbo2.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbofami.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Mundi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbomundi.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hboplus.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Pop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbopoplat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hbosigna.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", HBO Xtreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-hboxtrem.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-history2.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", History Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-historychan.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", La Nacion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-ln.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", MTV Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-mtv.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Sony Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-sony.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Stingray iConcerts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-stin.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Sun Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-Sun.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Telefe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-telefe.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", TNT Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-tnt-series.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", TNT Sports Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-tnt-prem.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", TNT Sports Premium Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-tnt-sporar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Tooncats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-toonlat.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-tycar.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Via X Esports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-win-s.playlist.m3u8
+
+#EXTINF:-1 group-title="Netvideo" tvg-logo="logo", Warner Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://netvideo.ultrawifi.com.ar/?tvwatch
+https://netvideo.ultrawifi.com.ar/?tvwatchLive/69807cec2fd57da7211b50f25abed275/local-warner.playlist.m3u8
