@@ -1,6 +1,0 @@
-#EXTM3U 
-#EXTINF:-1, Caracol Colombia
-#EXTVLCOPT:http-origin=https://cdn.chatytvgratis.net
-#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://hls2.mywebtv.cloud/hls/carcolhd1.m3u8
