@@ -326,6 +326,27 @@ https://stream.video.9c9media.com/f/ctv/usanetwork/manifest.mpd?0GKUSH_R4IN&DONT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f36eed9e95f140fabbc88a08abbeafff":"0125600d0eb13359c28bdab4a2ebe75a"}
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+#EXTM3U 
+#EXTINF:-1 group-title="ChatyTV" tvg-logo="logo", Canal Uno
+#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://hls2.mywebtv.cloud/hls/unocolhd.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="ChatyTV" tvg-logo="logo", Caracol Colombia
+#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://hls2.mywebtv.cloud/hls/carcolhd1.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="ChatyTV" tvg-logo="logo", Caracol HD2
+#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://hls2.mywebtv.cloud/hls/carcolhd2b.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="ChatyTV" tvg-logo="logo", CityTV Colombia
+#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://hls2.mywebtv.cloud/hls/citytvcol.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="ChatyTV" tvg-logo="logo", Señal Colombia
+#EXTVLCOPT:http-referrer=https://cdn.chatytvgratis.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://hls2.mywebtv.cloud/hls/sencolhd.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="ClaroTV+ BR" tvg-logo="logo", A&E HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -528,27 +549,62 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?0GKUSH_R4IN&DONT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"baef272fb12886463f3b299ac6b4ffa6":"bc285ae166674480abb4966f4a306327"}
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/AANDE-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+https://d1e0289khllgbn.cloudfront.net/3/out/u/dash/AANDE-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A3Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c86a2c9cca0c05c04dbc49c06561c033":"b6b00e852c2e160bd3ed1f0dd797883a"}
-https://nog-live1-ott.izzigo.tv/3/out/u/dash/A3-CINE-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Adrenalina Sports Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6de0a66b528401c0378c559712f74643":"f9a240cea75f585add8405375ad1d787"}
-https://nog-live1-ott.izzigo.tv/1/out/u/dash/ADRENALINA-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+https://d1e0289khllgbn.cloudfront.net/3/out/u/dash/A3-CINE-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Adult Swim
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"694fa2e355b31ac2c52d0a56d3d8da59":"0d7eff2e4dc61d48489555068b0db46a"}
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/ADULTSWIM-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+https://d1e0289khllgbn.cloudfront.net/5/out/u/dash/ADULTSWIM-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", AMC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"97cfeda35c2f42d6c2be729ea2945b12":"59c1f3c384bd0a25e817539d5fe6e24b"}
-https://nog-live1-ott.izzigo.tv/4/out/u/dash/AMCHD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+https://d1e0289khllgbn.cloudfront.net/4/out/u/dash/AMCHD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Animal Planet
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"80833609a69c8647766a2de347512f92":"039c1884003d62b4fb55babf944e1523"}
+https://d1e0289khllgbn.cloudfront.net/2/out/u/dash/ANIMAL-PLANET-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", AXN
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"976d703cb95202a808972c722544fae1":"562775b170402c6e2309ff69b9e48e82"}
+https://d1e0289khllgbn.cloudfront.net/3/out/u/dash/AXN-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Azteca 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"158b196625b3fa3a6cbd45d081d28995":"b955044f81ed40faec97bee0d7a20aea"}
+https://d1e0289khllgbn.cloudfront.net/4/out/u/dash/AZTECA-1-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Azteca 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c15a10921bed75a3ec5385e0ecdb6499":"4e44df62547a1544a4623418918658d0"}
+https://d1e0289khllgbn.cloudfront.net/4/out/u/dash/AZTECA-7-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Foro TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ea39b9575f51b840a58bda829f20f38d":"9c200a2b120d45e60af506be1d7ad932"}
+https://d1e0289khllgbn.cloudfront.net/2/out/u/dash/FORO-TV-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Fox Sports Premium
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6b142f14eb5a1359c05587bb46773e42":"bf064a17f8400c697ad99c84ef232bb0"}
+https://aca-live-ott.izzigo.tv/6/out/u/dash/FOXSPORTSPREMIUM-HD-H265/default.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Sky Sports 16
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95b52d16d344af539ce9c2c9ff95571a":"5f035d9c4a178221f89d2439426b2e9a"}
+https://aca-live-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", Unicable
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f49c809a99d0454981ae6700d25ba0fb":"1999b5fbfd058bc1a2acf3d3cdb7a78d"}
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNICABLE-HD/default.mpd?0GKUSH_R4IN&DONTSTEAL 
 #EXTM3U
 #EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", AMC
 https://dvr4.kablova.tv/AMC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -591,9 +647,9 @@ https://a-cdn.klowdtv.com/live1/awee_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", Euronews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", France 24
+#EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", France24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", France 24 Español
+#EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", France24 Español
 https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", Fun Roads TV
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -1265,10 +1321,14 @@ https://fl61.moveonjoy.com/TLC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://fl61.moveonjoy.com/TNT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TruTV
 https://fl1.moveonjoy.com/TRU_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TSN 1
+https://fl1.moveonjoy.com/TSN_1/mpegts?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TSN 2
 https://fl31.moveonjoy.com/TSN_2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TSN 3
 https://fl31.moveonjoy.com/TSN_3/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TSN 4
+https://fl1.moveonjoy.com/TSN_4/mpegts?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TSN 5
 https://fl31.moveonjoy.com/TSN_5/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", TV Land
@@ -1717,11 +1777,472 @@ http://37.0.110.5:8080?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Spain" group-logo="logo" tvg-logo="logo", Waytel TV HD
 http://37.0.110.5:6060?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1758120091563.png",Tigo Sports Radio | Tigo Sports Evento 1
+https://ott.streann.com/loadbalancer/services/public/channels/670ff3978f08b6f83f2a01a4/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1758119875516.png",120 Minutos | Canal 11 Eventos 1
+https://ott.streann.com/loadbalancer/services/public/channels/61f1ced7e4b045a360c1b678/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1758119952924.png",Teletica Deportes Radio | Teletica Radio Eventos 1
+https://ott.streann.com/loadbalancer/services/public/channels/65f1af3fe4b0a81a23b35101/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1759124558028.png",Futbol X Dentro | Tigo Sports Evento 1
+https://ott.streann.com/loadbalancer/services/public/channels/64e0c7e6e4b0659241282be2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1754068252028.png",Telenoticias | Teletica Eventos 6
+https://ott.streann.com/loadbalancer/services/public/channels/61a8c239e4b010fa97ffde6b/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1754068212039.png",Noticias Repretel | Repretel Eventos 1 
+https://ott.streann.com/loadbalancer/services/public/channels/65f1b05ae4b0a81a23b3512e/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1754068372160.png",Telediario | Multimedios Eventos 1
+https://ott.streann.com/loadbalancer/services/public/channels/668e864a8f0832c4ccb846a5/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1761173270616.png",Sepamos Ser Libres | TD+1 Eventos 9
+https://ott.streann.com/loadbalancer/services/public/channels/68f95f5c8f08613c6db869de/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1754068282519.png",Primero Noticias | Canal 1 Eventos 1
+https://ott.streann.com/loadbalancer/services/public/channels/667330098f0838b0572ca652/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1759192381272.png",Telediario Internacional | Multimedios Eventos 2
+https://ott.streann.com/loadbalancer/services/public/channels/68db25728f08db798aa6a841/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1759192505482.png",Calle 7 | Teletica Eventos 8
+https://ott.streann.com/loadbalancer/services/public/channels/68db260b8f08db798aa6a8fa/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Antena Seis
+https://streaming.tumm.tv/10303/notoken/hls/antenaseis/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", BeXtreme TV
+https://streaming.tumm.tv/10303/notoken/hls/bextv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 1 CR
+https://streaming.tumm.tv/10303/notoken/hls/canal1/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 11 Repretel
+https://streaming.tumm.tv/10303/notoken/hls/canal11/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 13 Costa Rica Televisión
+https://streaming.tumm.tv/10303/notoken/hls/canal13/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 4 Repretel
+https://streaming.tumm.tv/10303/notoken/hls/canal4/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 6 Repretel
+https://streaming.tumm.tv/10303/notoken/hls/canal6/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Canal 8 Multimedios CR
+https://streaming.tumm.tv/10303/notoken/hls/canal8/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", CDR Canal 2
+https://streaming.tumm.tv/10303/notoken/hls/canal2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Colosal 88.3 FM
+https://streaming.tumm.tv/10303/notoken/hls/canal3colosal88.3/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Colosal TV
+https://streaming.tumm.tv/10303/notoken/hls/colosaltv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", DW
+https://streaming.tumm.tv/10303/notoken/hls/dw/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Esperanza TV
+https://streaming.tumm.tv/10303/notoken/hls/esperanzatv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", EWTN
+https://streaming.tumm.tv/10303/notoken/hls/ewtn/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Extrema TV
+https://streaming.tumm.tv/10303/notoken/hls/extrematv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Fair Play TV
+https://stream.tumm.tv:3334/stream/play.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", France24
+https://streaming.tumm.tv/10303/notoken/hls/france24/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", FUTV CR
+https://streaming.tumm.tv/10303/notoken/hls/futv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Gex TV
+https://streaming.tumm.tv/10303/notoken/hls/gextv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", La MEGA en VIVO
+https://streaming.tumm.tv/10303/notoken/hls/lamegaenvivo/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", La Nacional TV
+https://streaming.tumm.tv/10303/notoken/hls/canal13.3sinart/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Luz Naciente TV
+https://streaming.tumm.tv/10303/notoken/hls/luznacientetv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Radio La MEGA
+https://streaming.tumm.tv/10303/notoken/hls/radiolamega/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", RT
+https://streaming.tumm.tv/10303/notoken/hls/rtrusia/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", San José TV
+https://streaming.tumm.tv/10303/notoken/hls/sanjos%C3%A9tv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Soy Plancha TV
+https://streaming.tumm.tv/10303/notoken/hls/soyplanchatv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Telered CR
+https://streaming.tumm.tv/10303/notoken/hls/telered/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Teleritmo
+https://streaming.tumm.tv/10303/notoken/hls/teleritmo/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Telesistema CR
+https://streaming.tumm.tv/10303/notoken/hls/telesistema/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Telesur
+https://streaming.tumm.tv/10303/notoken/hls/telesurlatinoamerica/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Telefides
+https://streaming.tumm.tv/10303/notoken/hls/telefides/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Trivisión Canal 36
+https://streaming.tumm.tv/10303/notoken/hls/canal36/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", TVN Canal 14
+https://streaming.tumm.tv/10303/notoken/hls/tvncanal14/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", TVSur Pérez Zeledón
+https://streaming.tumm.tv/10303/notoken/hls/tvsurcanal14/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Unife 8.2
+https://streaming.tumm.tv/10303/notoken/hls/canalunife/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", UrbanoTV CR
+https://streaming.tumm.tv/10303/notoken/hls/urbanotvcr/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", VM Latino
+https://streaming.tumm.tv/10303/notoken/hls/vmlatino/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", VM TV Vintage Music
+https://streaming.tumm.tv/10303/notoken/hls/vintagemusic/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Voice over Radio TV
+https://streaming.tumm.tv/10303/notoken/hls/voiceoverradiotv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Xkids TV
+https://streaming.tumm.tv/10303/notoken/hls/xkidstv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", XMTV
+https://streaming.tumm.tv/10303/notoken/hls/xmtv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="Tivify" group-logo="logo" tvg-logo="logo",24H
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f7e4a8328a025f94b5e3ceded06fbc44":"a509616e15b66ecb5177bc2705956557","2b5b0a182ca554e5a7158f813fb1d1b1":"4a13373195f24dcc8094d834785f41e9","10462201a43251a6b843e96dae5a0774":"715027c2c06be2d12995386ce64862a1"}
 http://185.176.8.178:30080/https://tvup01.edge.milloh-cs.com/canal24hhd/canal24hhd.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", A&E East
+http://origin.thetvapp.to/hls/AEEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ABC Los Angeles (KABC-DT1)
+http://origin.thetvapp.to/hls/abc-kabc-los-angeles-ca/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ABC New York (WABC-DT1)
+http://origin.thetvapp.to/hls/WABCDT1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ACC Network
+http://origin.thetvapp.to/hls/ACCNetwork/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Altitude Sports
+http://origin.thetvapp.to/hls/altitude-sports-denver/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", AMC Eastern Feed
+http://origin.thetvapp.to/hls/AMCEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", AHC
+http://origin.thetvapp.to/hls/AmericanHeroesChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Animal Planet East
+http://origin.thetvapp.to/hls/AnimalPlanetEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", BBC America East
+http://origin.thetvapp.to/hls/BBCAmericaEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", BBC News North America
+http://origin.thetvapp.to/hls/BBCWorldNewsNorthAmerica/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", BET East
+http://origin.thetvapp.to/hls/BETEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", BET Her
+http://origin.thetvapp.to/hls/BETHerEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Big Ten Network
+http://origin.thetvapp.to/hls/BTN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Bloomberg TV USA
+http://origin.thetvapp.to/hls/BloombergTV/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Boomerang
+http://origin.thetvapp.to/hls/Boomerang/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Bravo East
+http://origin.thetvapp.to/hls/BravoEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", C-SPAN
+http://origin.thetvapp.to/hls/CSPAN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", C-SPAN 2
+http://origin.thetvapp.to/hls/CSPAN2/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Cartoon Network East
+http://origin.thetvapp.to/hls/CartoonNetworkEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CBS Los Angeles (KCBS-DT1)
+http://origin.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CBS New York (WCBS-DT1)
+http://origin.thetvapp.to/hls/WCBSDT1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CBS Sports Network
+http://origin.thetvapp.to/hls/CBSSportsNetworkUSA/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Chicago Sports Network
+http://origin.thetvapp.to/hls/chicago-sports-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Cinemax East
+http://origin.thetvapp.to/hls/CinemaxEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CMT Eastern
+http://origin.thetvapp.to/hls/CMTEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CNBC
+http://origin.thetvapp.to/hls/CNBC/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CNN
+http://origin.thetvapp.to/hls/CNN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Comedy Central East
+http://origin.thetvapp.to/hls/ComedyCentralEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Crime & Investigation
+http://origin.thetvapp.to/hls/CrimePlusInvestigation/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CW San Diego (KFMB-TV2)
+http://origin.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", CW District of Columbia (WDCW)
+http://origin.thetvapp.to/hls/cw-wdcw-district-of-columbia/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Destination America
+http://origin.thetvapp.to/hls/DestinationAmerica/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Discovery Channel East
+http://origin.thetvapp.to/hls/DiscoveryChannelEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Discovery Family Channel
+http://origin.thetvapp.to/hls/DiscoveryFamily/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Discovery Life Channel
+http://origin.thetvapp.to/hls/DiscoveryLife/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Disney Channel East
+http://origin.thetvapp.to/hls/DisneyChannelEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Disney Junior East
+http://origin.thetvapp.to/hls/DisneyJuniorEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Disney XD East
+http://origin.thetvapp.to/hls/DisneyXDEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", E! East
+http://origin.thetvapp.to/hls/EEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ESPN
+http://origin.thetvapp.to/hls/ESPN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ESPN 2
+http://origin.thetvapp.to/hls/ESPN2/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ESPN Deportes
+http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ESPN News
+http://origin.thetvapp.to/hls/ESPNews/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ESPN U
+http://origin.thetvapp.to/hls/ESPNU/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Indiana
+http://origin.thetvapp.to/hls/fanduel-sports-indiana/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Detroit
+http://origin.thetvapp.to/hls/fanduel-sports-network-detroit-hd/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Florida
+http://origin.thetvapp.to/hls/fanduel-sports-network-florida/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Great Lakes
+http://origin.thetvapp.to/hls/fanduel-sports-network-great-lakes/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network North
+http://origin.thetvapp.to/hls/fanduel-sports-network-north/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Ohio Cleveland
+http://origin.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Oklahoma
+http://origin.thetvapp.to/hls/fanduel-sports-network-oklahoma/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network San Diego
+http://origin.thetvapp.to/hls/fanduel-sports-network-san-diego/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Socal
+http://origin.thetvapp.to/hls/fanduel-sports-network-socal/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network South Carolinas
+http://origin.thetvapp.to/hls/fanduel-sports-network-south-carolinas/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network South Tennessee
+http://origin.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network West
+http://origin.thetvapp.to/hls/fanduel-sports-network-west/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Network Wisconsin
+http://origin.thetvapp.to/hls/fanduel-sports-network-wisconsin/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Southeast Georgia
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-georgia/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Southeast North Carolina
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Southeast South Carolina
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Southeast Tennessee Nashville
+http://origin.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Sun
+http://origin.thetvapp.to/hls/fanduel-sports-sun/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fanduel Sports Tennessee East
+http://origin.thetvapp.to/hls/fanduel-sports-tennessee-east/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Food Network East
+http://origin.thetvapp.to/hls/FoodNetworkEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FOX 11 Los Angeles (KTTV) 
+http://origin.thetvapp.to/hls/fox-kttv-los-angeles-ca/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FOX New York (WNYW-DT1)
+http://origin.thetvapp.to/hls/WNYWDT1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fox Business
+http://origin.thetvapp.to/hls/FoxBusiness/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fox News Channel
+http://origin.thetvapp.to/hls/FoxNewsChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FS1
+http://origin.thetvapp.to/hls/FoxSports1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FS2
+http://origin.thetvapp.to/hls/FoxSports2/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Freeform East
+http://origin.thetvapp.to/hls/FreeformEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Fuse TV East
+http://origin.thetvapp.to/hls/FuseEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FXM
+http://origin.thetvapp.to/hls/FXMovieChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FX East
+http://origin.thetvapp.to/hls/FXEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FXX East
+http://origin.thetvapp.to/hls/FXXEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", FYI East
+http://origin.thetvapp.to/hls/FYIEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Game Show Network East
+http://origin.thetvapp.to/hls/game-show-network-east/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Golf Channel
+http://origin.thetvapp.to/hls/GolfChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Hallmark East
+http://origin.thetvapp.to/hls/HallmarkChannelEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Hallmark Family
+http://origin.thetvapp.to/hls/HallmarkDrama/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Hallmark Mystery East
+http://origin.thetvapp.to/hls/HallmarkMoviesMysteriesEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO East
+http://origin.thetvapp.to/hls/HBOEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO 2 East
+http://origin.thetvapp.to/hls/HBO2East/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO Comedy
+http://origin.thetvapp.to/hls/HBOComedyEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO Family East
+http://origin.thetvapp.to/hls/HBOFamilyEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO Signature East
+http://origin.thetvapp.to/hls/HBOSignatureEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HBO Zone East
+http://origin.thetvapp.to/hls/HBOZoneEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HGTV East
+http://origin.thetvapp.to/hls/HGTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", History Channel East
+http://origin.thetvapp.to/hls/HistoryEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", HLN
+http://origin.thetvapp.to/hls/HLN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", IFC
+http://origin.thetvapp.to/hls/IFCEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Investigation Discovery East
+http://origin.thetvapp.to/hls/InvestigationDiscoveryEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", ION East
+http://origin.thetvapp.to/hls/IONTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Lifetime Movies East
+http://origin.thetvapp.to/hls/LifetimeMoviesEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Lifetime East
+http://origin.thetvapp.to/hls/LifetimeEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", LOGO East
+http://origin.thetvapp.to/hls/LogoEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Marquee Sports Network
+http://origin.thetvapp.to/hls/marquee-sports-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MeTV Toons New Jersey (WJLP2) 
+http://origin.thetvapp.to/hls/metv-toons/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MeTV WJLP New Jersey New York
+http://origin.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Midatlantic Sports Network
+http://origin.thetvapp.to/hls/midatlantic-sports-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MLB Network
+http://origin.thetvapp.to/hls/MLBNetwork/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Monumental Sports Network
+http://origin.thetvapp.to/hls/monumental-sports-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MoreMax East
+http://origin.thetvapp.to/hls/MoreMaxEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Motor Trend HD
+http://origin.thetvapp.to/hls/Motortrend/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MovieMax East
+http://origin.thetvapp.to/hls/MovieMaxEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MSG
+http://origin.thetvapp.to/hls/msg-madison-square-gardens/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MSG Plus
+http://origin.thetvapp.to/hls/msg-plus/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MSNBC USA
+http://origin.thetvapp.to/hls/MSNBC/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MTV East
+http://origin.thetvapp.to/hls/MTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", MTV2 East
+http://origin.thetvapp.to/hls/mtv-2-east/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", National Geographic East
+http://origin.thetvapp.to/hls/NationalGeographicEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NatGeo Wild
+http://origin.thetvapp.to/hls/NationalGeographicWildEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBA TV
+http://origin.thetvapp.to/hls/NBATV/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC Los Angeles (KNBC-DT1) 
+http://origin.thetvapp.to/hls/nbc-knbc-los-angeles-ca/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC New York (WNBC-DT1)
+http://origin.thetvapp.to/hls/WNBCDT1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC Sports Bay Area
+http://origin.thetvapp.to/hls/nbc-sports-bay-area/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC Sports Boston
+http://origin.thetvapp.to/hls/nbc-sports-boston/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC Sports California
+http://origin.thetvapp.to/hls/nbc-sports-california/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NBC Sports Philadelphia
+http://origin.thetvapp.to/hls/nbc-sports-philadelphia/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", New England Sports Network
+http://origin.thetvapp.to/hls/new-england-sports-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NewsMax TV
+http://origin.thetvapp.to/hls/NewsmaxTV/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NFL Network
+http://origin.thetvapp.to/hls/NFLNetwork/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NFL RedZone
+http://origin.thetvapp.to/hls/NFLRedZone/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", NHL Network
+http://origin.thetvapp.to/hls/NHLNetwork/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Nick Jr. East
+http://origin.thetvapp.to/hls/NickJrEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Nickelodeon USA East
+http://origin.thetvapp.to/hls/NickelodeonEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Nicktoons East
+http://origin.thetvapp.to/hls/NicktoonsEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", OWN East
+http://origin.thetvapp.to/hls/OWNEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Outdoor Channel
+http://origin.thetvapp.to/hls/OutdoorChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Oxygen East
+http://origin.thetvapp.to/hls/OxygenEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", PBS Thirteen NY (WNET)
+http://origin.thetvapp.to/hls/WNET/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Reelz Channel
+http://origin.thetvapp.to/hls/Reelz/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Science
+http://origin.thetvapp.to/hls/Science/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", SEC Network
+http://origin.thetvapp.to/hls/SECN/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Showtime East
+http://origin.thetvapp.to/hls/ShowtimeEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Showtime 2 East
+http://origin.thetvapp.to/hls/Showtime2East/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet New York - SNY
+http://origin.thetvapp.to/hls/sny-sportsnet-new-york-comcast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Space City Home Network
+http://origin.thetvapp.to/hls/space-city-home-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Spectrum SportsNet LA
+http://origin.thetvapp.to/hls/spectrum-sportsnet-la/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Spectrum Sportsnet Lakers
+http://origin.thetvapp.to/hls/spectrum-sportsnet/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet East
+http://origin.thetvapp.to/hls/sportsnet-east/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet 360
+http://origin.thetvapp.to/hls/sportsnet-360/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet One
+http://origin.thetvapp.to/hls/sportsnet-one/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet Ontario
+http://origin.thetvapp.to/hls/sportsnet-ontario/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet Pacific
+http://origin.thetvapp.to/hls/sportsnet-pacific/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet Pittsburgh
+http://origin.thetvapp.to/hls/sportsnet-pittsburgh/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Sportsnet West
+http://origin.thetvapp.to/hls/sportsnet-west/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Starz East
+http://origin.thetvapp.to/hls/StarzEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", SundanceTV East
+http://origin.thetvapp.to/hls/SundanceTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Syfy East
+http://origin.thetvapp.to/hls/SyfyEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TBS East
+http://origin.thetvapp.to/hls/TBSEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TeenNick East
+http://origin.thetvapp.to/hls/TeenNickEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Telemundo East
+http://origin.thetvapp.to/hls/TelemundoEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", The Cooking Channel
+http://origin.thetvapp.to/hls/CookingChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", The Tennis Channel
+http://origin.thetvapp.to/hls/TennisChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", The Weather Channel
+http://origin.thetvapp.to/hls/TheWeatherChannel/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TLC East
+http://origin.thetvapp.to/hls/TLCEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TMC East
+http://origin.thetvapp.to/hls/TheMovieChannelEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TNT East
+http://origin.thetvapp.to/hls/TNTEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Travel Channel East
+http://origin.thetvapp.to/hls/TravelChannelEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TruTV East
+http://origin.thetvapp.to/hls/truTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TSN 1
+http://origin.thetvapp.to/hls/tsn1/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TSN 2
+http://origin.thetvapp.to/hls/tsn2/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TSN 3
+http://origin.thetvapp.to/hls/tsn3/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TSN 4
+http://origin.thetvapp.to/hls/tsn4/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TSN 5
+http://origin.thetvapp.to/hls/tsn5/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TCM
+http://origin.thetvapp.to/hls/TCMEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TV Land East
+http://origin.thetvapp.to/hls/tv-land-eastern/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", TV One
+http://origin.thetvapp.to/hls/TVOne/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Universal Kids
+http://origin.thetvapp.to/hls/UniversalKidsEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Univision East
+http://origin.thetvapp.to/hls/UnivisionEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", USA Network East
+http://origin.thetvapp.to/hls/USANetworkEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", VH1 East
+http://origin.thetvapp.to/hls/VH1East/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", VICE
+http://origin.thetvapp.to/hls/VICETV/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", WeTV East
+http://origin.thetvapp.to/hls/WeTVEast/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", WPIX New York
+http://origin.thetvapp.to/hls/WPIX/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TheTVApp" tvg-logo="logo", Yes Network
+http://origin.thetvapp.to/hls/yes-network/mono.m3u8?0GKUSH_R4IN&DONTSTEAL 
 #EXTM3U
 #EXTINF:-1 group-title="TV360 by Bitel" group-logo="logo" tvg-logo="logo", TuSami by Bitel
 https://live-evg5.tv360.bitel.com.pe/bitel/tusami/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -1766,6 +2287,715 @@ https://a120aivottevtad-a.akamaihd.net/IAD/52efcbc8f97e45da9ab91249752a0259/v1/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31a3beb4c3b6790fc8196a500530a1e4":"920a070b97b2774cf250fb5b0eab4098"}
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wzknzw4qt4/out/v1/6472b146ca0b487e89e1aa1113f67c71/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", A&E East SD
+https://tvpass.org/live/AEEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ABC Los Angeles (KABC-DT1) SD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ABC New York (WABC-DT1) SD
+https://tvpass.org/live/WABCDT1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ACC Network SD
+https://tvpass.org/live/ACCNetwork/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Altitude Sports SD
+https://tvpass.org/live/altitude-sports-denver/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", AMC East SD
+https://tvpass.org/live/AMCEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", AHC SD
+https://tvpass.org/live/AmericanHeroesChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Animal Planet East SD
+https://tvpass.org/live/AnimalPlanetEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BBC America East SD
+https://tvpass.org/live/BBCAmericaEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BBC News North America SD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BET East SD
+https://tvpass.org/live/BETEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BET Her SD
+https://tvpass.org/live/BETHerEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Big Ten Network SD
+https://tvpass.org/live/BTN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Bloomberg TV USA SD
+https://tvpass.org/live/BloombergTV/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Boomerang SD
+https://tvpass.org/live/Boomerang/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Bravo East SD
+https://tvpass.org/live/BravoEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", C-SPAN SD
+https://tvpass.org/live/CSPAN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", C-SPAN 2 SD
+https://tvpass.org/live/CSPAN2/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Cartoon Network East SD
+https://tvpass.org/live/CartoonNetworkEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS Los Angeles (KCBS-DT1)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS New York (WCBS-DT1)
+https://tvpass.org/live/WCBSDT1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS Sports Network SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Chicago Sports Network SD
+https://tvpass.org/live/chicago-sports-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Cinemax East SD
+https://tvpass.org/live/CinemaxEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CMT Eastern SD
+https://tvpass.org/live/CMTEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CNBC SD
+https://tvpass.org/live/CNBC/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CNN SD
+https://tvpass.org/live/CNN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Comedy Central East SD
+https://tvpass.org/live/ComedyCentralEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Crime & Investigation Network SD
+https://tvpass.org/live/CrimePlusInvestigation/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CW San Diego (KFMB-TV2) SD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CW District of Columbia (WDCW) SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Destination America SD
+https://tvpass.org/live/DestinationAmerica/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Channel East SD
+https://tvpass.org/live/DiscoveryChannelEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Family Channel SD
+https://tvpass.org/live/DiscoveryFamily/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Life Channel SD
+https://tvpass.org/live/DiscoveryLife/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney Channel East SD
+https://tvpass.org/live/DisneyChannelEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney Junior East SD
+https://tvpass.org/live/DisneyJuniorEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney XD East SD
+https://tvpass.org/live/DisneyXDEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", E! East SD
+https://tvpass.org/live/EEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN SD
+https://tvpass.org/live/ESPN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN 2 SD
+https://tvpass.org/live/ESPN2/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN News SD
+https://tvpass.org/live/ESPNews/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN U SD
+https://tvpass.org/live/ESPNU/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Indiana SD
+https://tvpass.org/live/fanduel-sports-indiana/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Detroit SD
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Florida SD
+https://tvpass.org/live/fanduel-sports-network-florida/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Great Lakes SD
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network North SD
+https://tvpass.org/live/fanduel-sports-network-north/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Ohio Cleveland SD
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Oklahoma SD
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network San Diego SD
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Socal SD
+https://tvpass.org/live/fanduel-sports-network-socal/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network South Carolinas SD
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network South Tennessee SD
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network West SD
+https://tvpass.org/live/fanduel-sports-network-west/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Wisconsin SD
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast Georgia SD
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast North Carolina SD
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast South Carolina SD
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast Tennessee Nashville SD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Sun SD
+https://tvpass.org/live/fanduel-sports-sun/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Tennessee East SD
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Food Network East SD
+https://tvpass.org/live/FoodNetworkEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FOX 11 Los Angeles (KTTV)  SD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FOX New York (WNYW-DT1) SD
+https://tvpass.org/live/WNYWDT1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fox Business SD
+https://tvpass.org/live/FoxBusiness/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fox News Channel SD
+https://tvpass.org/live/FoxNewsChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FS1 SD
+https://tvpass.org/live/FoxSports1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FS2 SD
+https://tvpass.org/live/FoxSports2/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Freeform East SD
+https://tvpass.org/live/FreeformEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fuse TV East SD
+https://tvpass.org/live/FuseEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FXM SD
+https://tvpass.org/live/FXMovieChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FX East SD
+https://tvpass.org/live/FXEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FXX East SD
+https://tvpass.org/live/FXXEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FYI East SD
+https://tvpass.org/live/FYIEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Game Show Network East SD
+https://tvpass.org/live/game-show-network-east/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Golf Channel SD
+https://tvpass.org/live/GolfChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark East SD
+https://tvpass.org/live/HallmarkChannelEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark Family SD
+https://tvpass.org/live/HallmarkDrama/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark Mystery East SD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO East SD
+https://tvpass.org/live/HBOEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO 2 East SD
+https://tvpass.org/live/HBO2East/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Comedy SD
+https://tvpass.org/live/HBOComedyEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Family East SD
+https://tvpass.org/live/HBOFamilyEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Signature East SD
+https://tvpass.org/live/HBOSignatureEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Zone East SD
+https://tvpass.org/live/HBOZoneEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HGTV East SD
+https://tvpass.org/live/HGTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", History Channel East SD
+https://tvpass.org/live/HistoryEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HLN SD
+https://tvpass.org/live/HLN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", IFC SD
+https://tvpass.org/live/IFCEast/sd?0GKUSH_R4IN&DONTSTEAL  SD
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Investigation Discovery East SD
+https://tvpass.org/live/InvestigationDiscoveryEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ION East SD
+https://tvpass.org/live/IONTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Lifetime Movies East SD
+https://tvpass.org/live/LifetimeMoviesEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Lifetime East SD
+https://tvpass.org/live/LifetimeEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", LOGO East SD
+https://tvpass.org/live/LogoEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Marquee Sports Network SD
+https://tvpass.org/live/marquee-sports-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MeTV Toons New Jersey (WJLP2)  SD
+https://tvpass.org/live/metv-toons/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MeTV WJLP New Jersey New York SD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Midatlantic Sports Network SD
+https://tvpass.org/live/midatlantic-sports-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MLB Network SD
+https://tvpass.org/live/MLBNetwork/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Monumental Sports Network SD
+https://tvpass.org/live/monumental-sports-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MoreMax East SD
+https://tvpass.org/live/MoreMaxEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Motor Trend  SD
+https://tvpass.org/live/Motortrend/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MovieMax East SD
+https://tvpass.org/live/MovieMaxEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSG SD
+https://tvpass.org/live/msg-madison-square-gardens/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSG Plus SD
+https://tvpass.org/live/msg-plus/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSNBC USA SD
+https://tvpass.org/live/MSNBC/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MTV East SD
+https://tvpass.org/live/MTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MTV2 East SD
+https://tvpass.org/live/mtv-2-east/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", National Geographic East SD
+https://tvpass.org/live/NationalGeographicEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NatGeo Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBA TV SD
+https://tvpass.org/live/NBATV/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Los Angeles (KNBC-DT1)  SD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC New York (WNBC-DT1) SD
+https://tvpass.org/live/WNBCDT1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports California SD
+https://tvpass.org/live/nbc-sports-california/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", New England Sports Network SD
+https://tvpass.org/live/new-england-sports-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NewsMax TV SD
+https://tvpass.org/live/NewsmaxTV/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NFL Network SD
+https://tvpass.org/live/NFLNetwork/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NFL RedZone SD
+https://tvpass.org/live/NFLRedZone/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NHL Network SD
+https://tvpass.org/live/NHLNetwork/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nick Jr. East SD
+https://tvpass.org/live/NickJrEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nickelodeon USA East SD
+https://tvpass.org/live/NickelodeonEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nicktoons East SD
+https://tvpass.org/live/NicktoonsEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", OWN East SD
+https://tvpass.org/live/OWNEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Outdoor Channel SD
+https://tvpass.org/live/OutdoorChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Oxygen East SD
+https://tvpass.org/live/OxygenEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", PBS Thirteen NY (WNET) SD
+https://tvpass.org/live/WNET/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Reelz Channel SD
+https://tvpass.org/live/Reelz/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Science SD
+https://tvpass.org/live/Science/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", SEC Network SD
+https://tvpass.org/live/SECN/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Showtime East SD
+https://tvpass.org/live/ShowtimeEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Showtime 2 East SD
+https://tvpass.org/live/Showtime2East/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet New York - SNY SD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Space City Home Network SD
+https://tvpass.org/live/space-city-home-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Spectrum SportsNet LA SD
+https://tvpass.org/live/spectrum-sportsnet-la/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Spectrum Sportsnet Lakers SD
+https://tvpass.org/live/spectrum-sportsnet/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet East SD
+https://tvpass.org/live/sportsnet-east/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet 360 SD
+https://tvpass.org/live/sportsnet-360/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet One SD
+https://tvpass.org/live/sportsnet-one/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Ontario SD
+https://tvpass.org/live/sportsnet-ontario/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Pacific SD
+https://tvpass.org/live/sportsnet-pacific/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Pittsburgh SD
+https://tvpass.org/live/sportsnet-pittsburgh/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet West SD
+https://tvpass.org/live/sportsnet-west/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Starz East SD
+https://tvpass.org/live/StarzEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", SundanceTV East SD
+https://tvpass.org/live/SundanceTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Syfy East SD
+https://tvpass.org/live/SyfyEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TBS East SD
+https://tvpass.org/live/TBSEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TeenNick East SD
+https://tvpass.org/live/TeenNickEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Telemundo East SD
+https://tvpass.org/live/TelemundoEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Weather Channel SD
+https://tvpass.org/live/TheWeatherChannel/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TLC East SD
+https://tvpass.org/live/TLCEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TMC East SD
+https://tvpass.org/live/TheMovieChannelEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TNT East SD
+https://tvpass.org/live/TNTEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Travel Channel East SD
+https://tvpass.org/live/TravelChannelEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TruTV East SD
+https://tvpass.org/live/truTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN1 SD
+https://tvpass.org/live/tsn1/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 2 SD
+https://tvpass.org/live/tsn2/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 3 SD
+https://tvpass.org/live/tsn3/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 4 SD
+https://tvpass.org/live/tsn4/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 5 SD
+https://tvpass.org/live/tsn5/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TCM SD
+https://tvpass.org/live/TCMEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TV Land East SD
+https://tvpass.org/live/tv-land-eastern/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TV One SD
+https://tvpass.org/live/TVOne/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Univision East SD
+https://tvpass.org/live/UnivisionEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", USA Network East SD
+https://tvpass.org/live/USANetworkEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", VH1 East SD
+https://tvpass.org/live/VH1East/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", VICE SD
+https://tvpass.org/live/VICETV/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", WeTV East SD
+https://tvpass.org/live/WeTVEast/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", WPIX New York SD
+https://tvpass.org/live/WPIX/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Yes Network SD
+https://tvpass.org/live/yes-network/sd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", A&E East HD
+https://tvpass.org/live/AEEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ABC Los Angeles (KABC-DT1) HD
+https://tvpass.org/live/abc-kabc-los-angeles-ca/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ABC New York (WABC-DT1) HD
+https://tvpass.org/live/WABCDT1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ACC Network HD
+https://tvpass.org/live/ACCNetwork/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Altitude Sports HD
+https://tvpass.org/live/altitude-sports-denver/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", AMC East HD
+https://tvpass.org/live/AMCEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", AHC HD
+https://tvpass.org/live/AmericanHeroesChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Animal Planet East HD
+https://tvpass.org/live/AnimalPlanetEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BBC America East HD
+https://tvpass.org/live/BBCAmericaEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BET East HD
+https://tvpass.org/live/BETEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", BET Her HD
+https://tvpass.org/live/BETHerEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Big Ten Network HD
+https://tvpass.org/live/BTN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Bloomberg TV USA HD
+https://tvpass.org/live/BloombergTV/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Boomerang HD
+https://tvpass.org/live/Boomerang/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Bravo East HD
+https://tvpass.org/live/BravoEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", C-SPAN HD
+https://tvpass.org/live/CSPAN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", C-SPAN 2 HD
+https://tvpass.org/live/CSPAN2/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Cartoon Network East HD
+https://tvpass.org/live/CartoonNetworkEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS Los Angeles (KCBS-DT1)
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS New York (WCBS-DT1)
+https://tvpass.org/live/WCBSDT1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CBS Sports Network HD
+https://tvpass.org/live/CBSSportsNetworkUSA/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Chicago Sports Network HD
+https://tvpass.org/live/chicago-sports-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Cinemax East HD
+https://tvpass.org/live/CinemaxEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CMT Eastern HD
+https://tvpass.org/live/CMTEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CNBC HD
+https://tvpass.org/live/CNBC/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CNN HD
+https://tvpass.org/live/CNN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Comedy Central East HD
+https://tvpass.org/live/ComedyCentralEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Crime & Investigation Network HD
+https://tvpass.org/live/CrimePlusInvestigation/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CW San Diego (KFMB-TV2) HD
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", CW District of Columbia (WDCW) HD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Destination America HD
+https://tvpass.org/live/DestinationAmerica/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Channel East HD
+https://tvpass.org/live/DiscoveryChannelEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Family Channel HD
+https://tvpass.org/live/DiscoveryFamily/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Discovery Life Channel HD
+https://tvpass.org/live/DiscoveryLife/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney Channel East HD
+https://tvpass.org/live/DisneyChannelEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney Junior East HD
+https://tvpass.org/live/DisneyJuniorEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Disney XD East HD
+https://tvpass.org/live/DisneyXDEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", E! East HD
+https://tvpass.org/live/EEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN HD
+https://tvpass.org/live/ESPN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN 2 HD
+https://tvpass.org/live/ESPN2/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN News HD
+https://tvpass.org/live/ESPNews/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ESPN U HD
+https://tvpass.org/live/ESPNU/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Indiana HD
+https://tvpass.org/live/fanduel-sports-indiana/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Detroit HD
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Florida HD
+https://tvpass.org/live/fanduel-sports-network-florida/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Great Lakes HD
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network North HD
+https://tvpass.org/live/fanduel-sports-network-north/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Ohio Cleveland HD
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Oklahoma HD
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network San Diego HD
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Socal HD
+https://tvpass.org/live/fanduel-sports-network-socal/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network South Carolinas HD
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network South Tennessee HD
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network West HD
+https://tvpass.org/live/fanduel-sports-network-west/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Network Wisconsin HD
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast Georgia HD
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast North Carolina HD
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast South Carolina HD
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Southeast Tennessee Nashville HD
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Sun HD
+https://tvpass.org/live/fanduel-sports-sun/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fanduel Sports Tennessee East HD
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Food Network East HD
+https://tvpass.org/live/FoodNetworkEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FOX 11 Los Angeles (KTTV)  HD
+https://tvpass.org/live/fox-kttv-los-angeles-ca/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FOX New York (WNYW-DT1) HD
+https://tvpass.org/live/WNYWDT1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fox Business HD
+https://tvpass.org/live/FoxBusiness/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fox News Channel HD
+https://tvpass.org/live/FoxNewsChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FS1 HD
+https://tvpass.org/live/FoxSports1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FS2 HD
+https://tvpass.org/live/FoxSports2/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Freeform East HD
+https://tvpass.org/live/FreeformEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Fuse TV East HD
+https://tvpass.org/live/FuseEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FXM HD
+https://tvpass.org/live/FXMovieChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FX East HD
+https://tvpass.org/live/FXEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FXX East HD
+https://tvpass.org/live/FXXEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", FYI East HD
+https://tvpass.org/live/FYIEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Game Show Network East HD
+https://tvpass.org/live/game-show-network-east/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Golf Channel HD
+https://tvpass.org/live/GolfChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark East HD
+https://tvpass.org/live/HallmarkChannelEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Hallmark Mystery East HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO East HD
+https://tvpass.org/live/HBOEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO 2 East HD
+https://tvpass.org/live/HBO2East/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Comedy HD
+https://tvpass.org/live/HBOComedyEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Family East HD
+https://tvpass.org/live/HBOFamilyEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Signature East HD
+https://tvpass.org/live/HBOSignatureEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HBO Zone East HD
+https://tvpass.org/live/HBOZoneEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HGTV East HD
+https://tvpass.org/live/HGTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", History Channel East HD
+https://tvpass.org/live/HistoryEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", HLN HD
+https://tvpass.org/live/HLN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", IFC HD
+https://tvpass.org/live/IFCEast/hd?0GKUSH_R4IN&DONTSTEAL  HD
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Investigation Discovery East HD
+https://tvpass.org/live/InvestigationDiscoveryEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", ION East HD
+https://tvpass.org/live/IONTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Lifetime Movies East HD
+https://tvpass.org/live/LifetimeMoviesEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Lifetime East HD
+https://tvpass.org/live/LifetimeEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", LOGO East HD
+https://tvpass.org/live/LogoEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Marquee Sports Network HD
+https://tvpass.org/live/marquee-sports-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MeTV Toons New Jersey (WJLP2)  HD
+https://tvpass.org/live/metv-toons/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MeTV WJLP New Jersey New York HD
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Midatlantic Sports Network HD
+https://tvpass.org/live/midatlantic-sports-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MLB Network HD
+https://tvpass.org/live/MLBNetwork/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Monumental Sports Network HD
+https://tvpass.org/live/monumental-sports-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MoreMax East HD
+https://tvpass.org/live/MoreMaxEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Motor Trend  HD
+https://tvpass.org/live/Motortrend/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MovieMax East HD
+https://tvpass.org/live/MovieMaxEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSG HD
+https://tvpass.org/live/msg-madison-square-gardens/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSG Plus HD
+https://tvpass.org/live/msg-plus/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MSNBC USA HD
+https://tvpass.org/live/MSNBC/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MTV East HD
+https://tvpass.org/live/MTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", MTV2 East HD
+https://tvpass.org/live/mtv-2-east/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", National Geographic East HD
+https://tvpass.org/live/NationalGeographicEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NatGeo Wild HD
+https://tvpass.org/live/NationalGeographicWildEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBA TV HD
+https://tvpass.org/live/NBATV/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Los Angeles (KNBC-DT1)  HD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC New York (WNBC-DT1) HD
+https://tvpass.org/live/WNBCDT1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Boston HD
+https://tvpass.org/live/nbc-sports-boston/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NBC Sports Philadelphia HD
+https://tvpass.org/live/nbc-sports-philadelphia/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", New England Sports Network HD
+https://tvpass.org/live/new-england-sports-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NewsMax TV HD
+https://tvpass.org/live/NewsmaxTV/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NFL Network HD
+https://tvpass.org/live/NFLNetwork/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NFL RedZone HD
+https://tvpass.org/live/NFLRedZone/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", NHL Network HD
+https://tvpass.org/live/NHLNetwork/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nick Jr. East HD
+https://tvpass.org/live/NickJrEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nickelodeon USA East HD
+https://tvpass.org/live/NickelodeonEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Nicktoons East HD
+https://tvpass.org/live/NicktoonsEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", OWN East HD
+https://tvpass.org/live/OWNEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Outdoor Channel HD
+https://tvpass.org/live/OutdoorChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Oxygen East HD
+https://tvpass.org/live/OxygenEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", PBS Thirteen NY (WNET) HD
+https://tvpass.org/live/WNET/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Reelz Channel HD
+https://tvpass.org/live/Reelz/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Science HD
+https://tvpass.org/live/Science/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", SEC Network HD
+https://tvpass.org/live/SECN/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Showtime East HD
+https://tvpass.org/live/ShowtimeEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Showtime 2 East HD
+https://tvpass.org/live/Showtime2East/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet New York - SNY HD
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Space City Home Network HD
+https://tvpass.org/live/space-city-home-network/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Spectrum SportsNet LA HD
+https://tvpass.org/live/spectrum-sportsnet-la/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Spectrum Sportsnet Lakers HD
+https://tvpass.org/live/spectrum-sportsnet/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet East HD
+https://tvpass.org/live/sportsnet-east/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet 360 HD
+https://tvpass.org/live/sportsnet-360/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet One HD
+https://tvpass.org/live/sportsnet-one/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Ontario HD
+https://tvpass.org/live/sportsnet-ontario/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Pacific HD
+https://tvpass.org/live/sportsnet-pacific/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet Pittsburgh HD
+https://tvpass.org/live/sportsnet-pittsburgh/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Sportsnet West HD
+https://tvpass.org/live/sportsnet-west/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Starz East HD
+https://tvpass.org/live/StarzEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", SundanceTV East HD
+https://tvpass.org/live/SundanceTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Syfy East HD
+https://tvpass.org/live/SyfyEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TBS East HD
+https://tvpass.org/live/TBSEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TeenNick East HD
+https://tvpass.org/live/TeenNickEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Telemundo East HD
+https://tvpass.org/live/TelemundoEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Cooking Channel HD
+https://tvpass.org/live/CookingChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Tennis Channel HD
+https://tvpass.org/live/TennisChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", The Weather Channel HD
+https://tvpass.org/live/TheWeatherChannel/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TLC East HD
+https://tvpass.org/live/TLCEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TMC East HD
+https://tvpass.org/live/TheMovieChannelEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TNT East HD
+https://tvpass.org/live/TNTEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Travel Channel East HD
+https://tvpass.org/live/TravelChannelEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TruTV East HD
+https://tvpass.org/live/truTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN1 HD
+https://tvpass.org/live/tsn1/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 2 HD
+https://tvpass.org/live/tsn2/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 3 HD
+https://tvpass.org/live/tsn3/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 4 HD
+https://tvpass.org/live/tsn4/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TSN 5 HD
+https://tvpass.org/live/tsn5/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TCM HD
+https://tvpass.org/live/TCMEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TV Land East HD
+https://tvpass.org/live/tv-land-eastern/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", TV One HD
+https://tvpass.org/live/TVOne/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Universal Kids HD
+https://tvpass.org/live/UniversalKidsEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Univision East HD
+https://tvpass.org/live/UnivisionEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", USA Network East HD
+https://tvpass.org/live/USANetworkEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", VH1 East HD
+https://tvpass.org/live/VH1East/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", VICE HD
+https://tvpass.org/live/VICETV/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", WeTV East HD
+https://tvpass.org/live/WeTVEast/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", WPIX New York HD
+https://tvpass.org/live/WPIX/hd?0GKUSH_R4IN&DONTSTEAL 
+#EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Yes Network HD
+https://tvpass.org/live/yes-network/hd?0GKUSH_R4IN&DONTSTEAL 
 #EXTM3U
 #EXTINF:-1 group-title="Universal+" group-logo="logo" tvg-logo="logo", Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1818,15 +3048,15 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://cors.almoroj.com/https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="USTVNow" tvg-logo="logo", FETV
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USTVNow" tvg-logo="logo", USA NETWORK
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://gcdn-p9.teleuptv.net/d0dd02fc-b77f-4465-b077-4a6a2e1a0524/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="USTVNow" tvg-logo="logo", WGN 9
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com
+#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://gcdn-p8.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
@@ -2149,7 +3379,7 @@ https://live.webcastserver.online/hdstream/embed/392.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/hdstream/embed/393.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", espn
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", espn mx
 http://38.22.164.249:8090/espn1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", telesecundaria
 http://38.22.164.249:8090/telesecundaria/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -2158,20 +3388,9 @@ http://38.22.164.249:8090/telesecundaria/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:-1 type="movie" group-title="HENTAI" tvg-flag="parental-control" tvg-logo="logo", OVERFLOW SEASON 1 | HANIME.TV
+#EXTINF:-1 type="series" tvg-logo="logo" group-title="HENTAI" tvg-flag="parental-control", OVERFLOW SEASON 1 | HANIME.TV
 #EXTVLCOPT:adult-content=1
 https://m3u8s.highwinds-cdn.com/api/v9/m3u8s/34g8h1m2ng4w4kA576vp621w97Ztth36jctdn7011h3s6s99dxbnm.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 type="movie" group-title="JAV" tvg-flag="parental-control" tvg-logo="https://iili.io/KAlobuj.jpg", (STARS-818) REI KAMIKI 神木麗
 #EXTVLCOPT:adult-content=1
 https://dba738b5.high-mountain-114.site/blah3/XEn0ezAckFvTgxX3A7ZKZZj9hwJ3h4BOFb7VqxqPgxcKzdM/video.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 type="radio" tvg-name="WGUE" tvg-logo="logo", La Jefa 99.3 FM
-https://ice6.securenetsystems.net/WGUE?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" tvg-name="WLPF" tvg-logo="logo", 99.7 FM The Wolf
-https://live.amperwave.net/manifest/audacy-wlfpfmaac-hlsc.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" tvg-name="WHRK" tvg-logo="logo", K97
-https://stream.revma.ihrhls.com/zc2141/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" tvg-name="WEGR" tvg-logo="logo", 102.7 Kiss FM
-https://stream.revma.ihrhls.com/zc2133/hls.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 type="radio" tvg-name="KXHT" tvg-logo="logo", HOT1071 TRU HIP-HOP
-https://securenetg.com/listen/hot1071/hot.aac?0GKUSH_R4IN&DONTSTEAL
