@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, COMEDY CENTRAL LA
-#EXTVLCOPT:http-referrer=https://netplay.sv/live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://netplay.sv/multimedia/live/canal-001/playlist.m3u8
+https://netplay.sv/multimedia/live/canal-001/playlist.m3u8|Referer=https://netplay.sv/live&User-Agent=Mozilla/5.0
 
 #EXTINF:-1, TOONCAST
 #EXTVLCOPT:http-referrer=https://netplay.sv/live
