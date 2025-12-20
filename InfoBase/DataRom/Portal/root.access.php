@@ -319,7 +319,7 @@ http://cabletacna.iptvperu.tv:8001/play/a014?0GKUSH_R4IN&DONTSTEAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b6ba8df4f64a4cb98d7306a9b21c8eaf":"328d3707c4825b7484a5a9d6561b937b","e922175a7f3a5383bb8a680afea29140":"328d3707c4825b7484a5a9d6561b937b","942c3595b7c650568393d4d19ffa57cd":"328d3707c4825b7484a5a9d6561b937b"}
-https://stream.video.9c9media.com/f/ctv/usanetwork/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+https://live-de.video.9c9media.com/f/ctv/usanetwork/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="Cignal TV" tvg-logo="logo", NBA TV Philippines
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1371,8 +1371,233 @@ https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="NBCUniversal" tvg-logo="logo", Universo East
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3501bd323a6a35c28eb7654bf298b9aa":"2db4c8089d627e1b2c480c57baa86a7b"}
-https://g001-live-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key={"a17518cbf52f3478930511cea7ed1e3a":"82b1aaf767958581f82ef9701474162c"}
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Comedy Central
+http://cloud.flynet.sv:1935/live/canal-001/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Tooncast
+http://cloud.flynet.sv:1935/live/canal-002/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Space
+http://cloud.flynet.sv:1935/live/canal-003/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Paramount
+http://cloud.flynet.sv:1935/live/canal-004/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Azteca Deportes Network
+http://cloud.flynet.sv:1935/live/canal-005/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Discovery
+http://cloud.flynet.sv:1935/live/canal-006/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN 5
+http://cloud.flynet.sv:1935/live/canal-007/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Antena3 Internacional
+http://cloud.flynet.sv:1935/live/canal-008/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", RT
+http://cloud.flynet.sv:1935/live/canal-009/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Fox Sports MX
+http://cloud.flynet.sv:1935/live/canal-010/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Nick Jr
+http://cloud.flynet.sv:1935/live/canal-011/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", EWTN
+http://cloud.flynet.sv:1935/live/canal-012/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Hola TV
+http://cloud.flynet.sv:1935/live/canal-013/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Pasiones
+http://cloud.flynet.sv:1935/live/canal-014/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", HBO
+http://cloud.flynet.sv:1935/live/canal-015/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cinecanal
+http://cloud.flynet.sv:1935/live/canal-016/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN Deportes
+http://cloud.flynet.sv:1935/live/canal-017/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Multipremier
+http://cloud.flynet.sv:1935/live/canal-021/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Studio Universal
+http://cloud.flynet.sv:1935/live/canal-026/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN 6
+http://cloud.flynet.sv:1935/live/canal-027/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", A3Cine
+http://cloud.flynet.sv:1935/live/canal-028/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cartoon Network
+http://cloud.flynet.sv:1935/live/canal-029/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Warner Channel
+http://cloud.flynet.sv:1935/live/canal-030/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Fox Sports 2 MX
+http://cloud.flynet.sv:1935/live/canal-031/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN
+http://cloud.flynet.sv:1935/live/canal-032/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN 2
+http://cloud.flynet.sv:1935/live/canal-033/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Sony Movies
+http://cloud.flynet.sv:1935/live/canal-034/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Sony Channel
+http://cloud.flynet.sv:1935/live/canal-035/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 4
+http://cloud.flynet.sv:1935/live/canal-036/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", C10
+http://cloud.flynet.sv:1935/live/canal-037/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Nick Music
+http://cloud.flynet.sv:1935/live/canal-039/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Telemundo
+http://cloud.flynet.sv:1935/live/canal-040/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cine Premium
+http://cloud.flynet.sv:1935/live/canal-042/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Multicinema
+http://cloud.flynet.sv:1935/live/canal-044/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TNT Series
+http://cloud.flynet.sv:1935/live/canal-046/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", A3Series Internacional
+http://cloud.flynet.sv:1935/live/canal-047/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", AXN
+http://cloud.flynet.sv:1935/live/canal-048/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 21
+http://cloud.flynet.sv:1935/live/canal-049/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 19
+http://cloud.flynet.sv:1935/live/canal-050/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cine Familiar
+http://cloud.flynet.sv:1935/live/canal-051/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cine Hispano
+http://cloud.flynet.sv:1935/live/canal-052/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal Infantil
+http://cloud.flynet.sv:1935/live/canal-053/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cartoonito
+http://cloud.flynet.sv:1935/live/canal-055/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Star Channel
+http://cloud.flynet.sv:1935/live/canal-057/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", History
+http://cloud.flynet.sv:1935/live/canal-058/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", USA Network
+http://cloud.flynet.sv:1935/live/canal-059/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Baby TV
+http://cloud.flynet.sv:1935/live/canal-060/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", CNN en Español
+http://cloud.flynet.sv:1935/live/canal-061/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Caracol
+http://cloud.flynet.sv:1935/live/canal-062/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MTV
+http://cloud.flynet.sv:1935/live/canal-063/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Universal TV
+http://cloud.flynet.sv:1935/live/canal-064/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Universo
+http://cloud.flynet.sv:1935/live/canal-065/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", RCN Novelas
+http://cloud.flynet.sv:1935/live/canal-066/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Mariavision
+http://cloud.flynet.sv:1935/live/canal-067/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Animal Planet
+http://cloud.flynet.sv:1935/live/canal-068/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Zoomoo
+http://cloud.flynet.sv:1935/live/canal-069/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TVO
+http://cloud.flynet.sv:1935/live/canal-071/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", RCN Internacional
+http://cloud.flynet.sv:1935/live/canal-072/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TNT
+http://cloud.flynet.sv:1935/live/canal-074/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", AMC
+http://cloud.flynet.sv:1935/live/canal-079/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Disney Jr
+http://cloud.flynet.sv:1935/live/canal-081/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 12
+http://cloud.flynet.sv:1935/live/canal-082/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", NatGeo
+http://cloud.flynet.sv:1935/live/canal-091/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", HBO 2
+http://cloud.flynet.sv:1935/live/canal-094/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Kanal D Drama
+http://cloud.flynet.sv:1935/live/canal-097/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", CNBC
+http://cloud.flynet.sv:1935/live/canal-098/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Dreamworks
+http://cloud.flynet.sv:1935/live/canal-099/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Fox Deportes
+http://cloud.flynet.sv:1935/live/canal-104/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Disney Channel
+http://cloud.flynet.sv:1935/live/canal-105/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Discovery H&H
+http://cloud.flynet.sv:1935/live/canal-107/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Fox Sports 3 MX
+http://cloud.flynet.sv:1935/live/canal-108/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Discovery Turbo
+http://cloud.flynet.sv:1935/live/canal-109/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 2
+http://cloud.flynet.sv:1935/live/canal-110/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 6
+http://cloud.flynet.sv:1935/live/canal-111/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Nickelodeon
+http://cloud.flynet.sv:1935/live/canal-112/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TVU El Salvador
+http://cloud.flynet.sv:1935/live/canal-113/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 3
+http://cloud.flynet.sv:1935/live/canal-114/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", 115
+http://cloud.flynet.sv:1935/live/canal-115/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Telesur
+http://cloud.flynet.sv:1935/live/canal-116/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Azteca Internacional
+http://cloud.flynet.sv:1935/live/canal-117/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", AZ Clic
+http://cloud.flynet.sv:1935/live/canal-118/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", AZ CLIC
+http://cloud.flynet.sv:1935/live/canal-119/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Cine Mexicano
+http://cloud.flynet.sv:1935/live/canal-120/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESPN 3 MX
+http://cloud.flynet.sv:1935/live/canal-121/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", FX
+http://cloud.flynet.sv:1935/live/canal-123/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", ESNE
+http://cloud.flynet.sv:1935/live/canal-124/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Venus
+http://cloud.flynet.sv:1935/live/canal-125/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TVE
+http://cloud.flynet.sv:1935/live/canal-128/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TN23
+http://cloud.flynet.sv:1935/live/canal-130/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 7
+http://cloud.flynet.sv:1935/live/canal-131/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 11
+http://cloud.flynet.sv:1935/live/canal-132/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TCS+
+http://cloud.flynet.sv:1935/live/canal-135/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MIMUSICA REGGAETON 
+http://cloud.flynet.sv:1935/live/canal-136/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MIMUSICA HITS
+http://cloud.flynet.sv:1935/live/canal-137/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MIMUSICA SALSA
+http://cloud.flynet.sv:1935/live/canal-138/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MIMUSICA ROMANTICA
+http://cloud.flynet.sv:1935/live/canal-139/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Europa Europa
+http://cloud.flynet.sv:1935/live/canal-140/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Gourmet
+http://cloud.flynet.sv:1935/live/canal-141/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Film&Arts
+http://cloud.flynet.sv:1935/live/canal-142/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TNT Sports
+http://cloud.flynet.sv:1935/live/canal-143/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", CCI
+http://cloud.flynet.sv:1935/live/canal-144/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Enlace
+http://cloud.flynet.sv:1935/live/canal-145/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", AMC Series
+http://cloud.flynet.sv:1935/live/canal-146/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Hispan TV
+http://cloud.flynet.sv:1935/live/canal-147/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", TV Azteca Guate
+http://cloud.flynet.sv:1935/live/canal-148/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Guatevision
+http://cloud.flynet.sv:1935/live/canal-149/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal TRV
+http://cloud.flynet.sv:1935/live/canal-150/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Telemundo Internacional
+http://cloud.flynet.sv:1935/live/canal-152/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Lifetime
+http://cloud.flynet.sv:1935/live/canal-154/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", E! Entertainment
+http://cloud.flynet.sv:1935/live/canal-156/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", History2
+http://cloud.flynet.sv:1935/live/canal-157/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", A&E
+http://cloud.flynet.sv:1935/live/canal-158/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="Netplus" tvg-logo="logo", RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -1710,11 +1935,15 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?0GKUS
 https://cors-proxy.cooks.fyi/https://klcsdt.lls.pbs.org/out/v1/264e5f8fab5d4ac8aa833272f23a0861/dash-drm.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS KLCS Create (KLCS-DT3)
 https://cors-proxy.cooks.fyi/https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS KQED (KQED-DT2)
+https://cors-proxy.cooks.fyi/https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS KRMA (KRMA-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e9d50fff0f104a8181731a880fba244d":"2d5ddbdcf81ac8b9c0a306145a925770"}
 https://cors-proxy.cooks.fyi/https://krmadt.lls.pbs.org/out/v1/239e3afea2ad4574a112bd5d8c717353/dash-drm.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS KVIE 2 (KVIE-DT2)
+https://cors-proxy.cooks.fyi/https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS Create Rocky Mountains
 https://3ae97e9482b0d011.mediapackage.us-west-2.amazonaws.com/out/v1/db135313ca9f44d49c0e9e71e89dc761/CMAF_HLS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS Kids Rocky Mountains
@@ -1728,6 +1957,8 @@ https://ef12a945743b4a46.mediapackage.us-west-2.amazonaws.com/out/v1/8f2cd51f46d
 https://cors-proxy.cooks.fyi/https://kuondt.lls.pbs.org/out/v1/7b9f392188144a1f92c53b1d78584297/dash-drm.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS Nebraska Public Media World
 https://d3bpna7ua68cn6.cloudfront.net/out/v1/bfe93f9852004ad199ed69890cfa8784/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS WEDQ (WEDQ-DT3.4)
+https://cors-proxy.cooks.fyi/https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8?0GKUSH_R4IN&DONTSTEA
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS WGBH (WGBH-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1738,13 +1969,15 @@ https://cors-proxy.cooks.fyi/https://wgbhdt.lls.pbs.org/out/v1/fc994cd4c0854f6ba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5db6ca2f5c194e2c96c2073c72bc514f":"4670dd8c8f19fff96c126539fff93ef7"}
 https://cors-proxy.cooks.fyi/https://wknodt.lls.pbs.org/out/v1/347b4226ab2c4207a25b445dfce9dc85/dash-drm.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", WKNO2 (WKNO-DT2)
+#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS WKNO2 (WKNO-DT2)
 https://cors-proxy.cooks.fyi/https://wknodt2.lls.pbs.org/wknodt2-hls.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS Kids WKNO (WKNO-DT3)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"309e77c939a2464e9c04df289b335228":"6b3334b74f5917a1542a71aebd4449e6","745d83e811ba40c38c55eaf51d7742ec":"d4a2e1648262216ffab25ac02e3f4f25"}
 https://cors-proxy.cooks.fyi/https://livestream.pbskids.org/v1/dash/afde4238821a08932ac8931c7b3e89adcbe90300/pbskids-prod-dash/116db48616c44f41a80ea0989c336ce3/est-dash-drm.mpd?ads.station_id=6b3ba9b1-843d-4c44-a8e3-fada6005f081&0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS WNPT World (WNPT-DT2)
+https://cors-proxy.cooks.fyi/https://wnptdt2.lls.pbs.org/wnptdt2-cmaf-hls.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="PBS Local" tvg-logo="logo", PBS WPSU (WSPU-DT1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2281,7 +2514,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?0GKUSH_R4IN&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ce9fc608e10001b8f47fe5972f48b2db":"4c99c32109aaade8f7373e274edc01e8"}
-https://a120aivottevtad-a.akamaihd.net/IAD/52efcbc8f97e45da9ab91249752a0259/v1/dash/339189661843/tvaztecamx_linear_amzn1_dv_live_csid_5653374d-bc8b-4d20-987c-56f5916cbb29_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/g5h7tfi1lr/out/v1/ce411480446f4f14ad1b7a80c982fdbc/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g5h7tfi1lr/out/v1/ce411480446f4f14ad1b7a80c982fdbc/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="TV Azteca MX" tvg-logo="logo", Azteca Uno
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3150,7 +3383,7 @@ https://s0.usnlive.com/stream/oann.m3u8?0GKUSH_R4IN&DONTSTEAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"31a097d9c4e04c111b42c6740c4c255f":"b2d5b4cdfe399bbd95bc9430e248fbcb"}
-https://a31aivottevtad-a.akamaihd.net/IAD/88fb1cac7bed42b7846ec50b2412278a/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_240b8b0c-8ef3-4d7b-b611-53e5db870e6d_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/amszvabjdr/out/v1/7bce30d8113d4dc1afd617e5347a5392/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/amszvabjdr/out/v1/7bce30d8113d4dc1afd617e5347a5392/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", Bandamax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3165,7 +3398,7 @@ https://a71aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/fx2dmfyz5p/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9c7628f21e934f364561e6637cdd4033":"2e297c567b4f530491781d710d64b747"}
-https://a71aivottevtad-a.akamaihd.net/IAD/8edc5b1c0c4f4068900d369792710dd8/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_c47c4ebf-19a3-4eee-8021-9d8b20adb76f_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/j7rx2cbo1t/out/v1/f9e81d576ff14f828b765a5de639fa42/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7rx2cbo1t/out/v1/f9e81d576ff14f828b765a5de639fa42/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", DePelicula Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3175,7 +3408,7 @@ https://a91aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/flazytxboi/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"980ed6fd14d9638707c2d74ce7e3c0d7":"d3a1b6fff4cfd6a0ad9d6a8bf192f157"}
-https://a112aivottevtad-a.akamaihd.net/IAD/943f73ee10664e13b624b3d8c5015c60/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_4bf0a6b4-5217-4671-81a4-73dafddcc028_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/2t5mpsz70w/out/v1/ba8f51c0391f4bbdad34656e4aebcab6/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2t5mpsz70w/out/v1/ba8f51c0391f4bbdad34656e4aebcab6/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", Golden Edge
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3191,17 +3424,17 @@ https://a201aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/ryxzxbtnsm/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3555f1f9c2fb816518c81c496bcea8d3":"ff9d53fbbaa7d646666b51cb66d1c44a"}
 https://a158aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/7boasqkqda/out/v1/78b04c5406e34c13aa01b99c83f78ed9/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="VIX" tvg-logo="logo", Las Estrellas -1HR
+#EXTINF:-1 group-title="VIX" tvg-logo="logo", Las Estrellas -1Hora
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"006f2f4a021be8731b765ae423fcd29c":"036e3306520c8a775808f68e59e611d4"}
 https://a181aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/csww899q5b/out/v1/fa569322da264d089f6e5d2b20d00006/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="VIX" tvg-logo="logo", Las Estrellas -2HR
+#EXTINF:-1 group-title="VIX" tvg-logo="logo", Las Estrellas -2Horas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e57012cd6ce0f911a25be6e4ffba202e":"bd1bddbeb9665bafceb278b4826decec"}
 https://a129aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/vecbvmngyu/out/v1/e459fa63f7e14194962bb525c77d7349/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="VIX" tvg-logo="logo", NUEVE MX
+#EXTINF:-1 group-title="VIX" tvg-logo="logo", Nueve MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c6ab016657cc7d25c4a3fac6340666c4":"b2aedfa64e979756bfb36d842cf5b549"}
@@ -3210,12 +3443,12 @@ https://a64aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/wttmc9bjpu/o
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f2ec1369ebdca12014eb8069e0ea636":"ffe2149fed90a828b2e90009f2c04f75"}
-https://a69aivottevtad-a.akamaihd.net/IAD/7c7f78548ae74adeaa61cb210aac15da/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_4e1be476-9988-401e-b8dd-1afc9d5a87a9_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/4uz0rw178q/out/v1/1dcd5c3511dc4a0688979461b8c3a2e3/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4uz0rw178q/out/v1/1dcd5c3511dc4a0688979461b8c3a2e3/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", TUDN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1710ac2bbfcd3032d0f6533850968f47":"d2548dacc8efcd1cd0af0373060c82dc"}
-https://emt-fastly.live.pv-cdn.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", Unicable
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3261,11 +3494,17 @@ https://live.webcastserver.online/newz/newz/135.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live.webcastserver.online/newz/newz/133.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", espn mx
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", Dish Network
+http://69.57.85.171:90/0.ts?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", ESPN MX
 http://38.22.164.249:8090/espn1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", telesecundaria
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", Shaw Direct
+http://69.57.85.171/0.ts?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="r4in" group-logo="logo" tvg-logo="logo", Telesecundaria
 http://38.22.164.249:8090/telesecundaria/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="r4in" tvg-logo="logo", telemicro
+#EXTINF:-1 group-title="r4in" tvg-logo="logo", Telemicro
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://live4.telemicro.com.do/live/telemicrocast_1080p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
