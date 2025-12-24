@@ -9144,3 +9144,4 @@ http://147.78.1.28/xview/xhkg_tep_hd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51710c9c227a4637991466ece1b3550e:831bfae1e16f4cc2cda5d620e6d1e96a
 http://147.78.1.28/xview/xhq_tv_canal_3_cln_hd.mpd
+
