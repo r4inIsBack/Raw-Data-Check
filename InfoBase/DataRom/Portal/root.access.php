@@ -145,6 +145,25 @@ https://dash2.antik.sk/stream/hisi_tlc/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_travel_channel/playlist_cbcs.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", A3Series
+https://iptv.bitred.cl/a3series/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Canal 13
+https://iptv.bitred.cl/c13/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Chilevisión
+https://iptv.bitred.cl/chv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Discovery Kids
+https://iptv.bitred.cl/discovery_kids/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Euronews
+https://iptv.bitred.cl/euronews/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Hola TV
+https://iptv.bitred.cl/hola_tv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", Mega
+https://iptv.bitred.cl/mega/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", TV+
+https://iptv.bitred.cl/tvmas/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Bitred CL" tvg-logo="logo", TVN
+https://iptv.bitred.cl/tvn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="Brazil" tvg-logo="logo", Canal
 http://45.191.172.14:8024?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Brazil" tvg-logo="logo", Quality Network TV
@@ -152,10 +171,24 @@ http://164.163.92.10:8031?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Brazil" tvg-logo="logo", RedNet Telecom
 http://45.191.172.14:8022?0GKUSH_R4IN&DONTSTEAL 
 #EXTM3U
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", A&E HD
+http://cabletacna.iptvperu.tv:8001/play/a00j?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", A&E HD
+http://cabletacna.iptvperu.tv:8001/play/a024?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", A&E HD (emme
+http://cabletacna.iptvperu.tv:8001/play/a026?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", A&E HD colo
+http://cabletacna.iptvperu.tv:8001/play/a02c?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", A&E HD colo_emme
+http://cabletacna.iptvperu.tv:8001/play/a02a?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", AMC
 http://cabletacna.iptvperu.tv:8001/play/a01q?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", AXN HD
+http://cabletacna.iptvperu.tv:8001/play/a00g?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Adult swim HD
 http://cabletacna.iptvperu.tv:8001/play/a03i?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", America TV
+http://cabletacna.iptvperu.tv:8001/play/a056?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", America TV HD
 http://cabletacna.iptvperu.tv:8001/play/a006?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", America TV HD
@@ -168,12 +201,16 @@ http://cabletacna.iptvperu.tv:8001/play/a080?0GKUSH_R4IN&DONTSTEAL
 http://cabletacna.iptvperu.tv:8001/play/a09y?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", CGTN HD M3U
 http://cabletacna.iptvperu.tv:8001/play/a027?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", CINE SONY
+http://cabletacna.iptvperu.tv:8001/play/a0a4?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", CINEMAX HD
 http://cabletacna.iptvperu.tv:8001/play/a09r?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", CT DEPORTES HD
 http://cabletacna.iptvperu.tv:8001/play/a09o?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Canal 13 HD
 http://cabletacna.iptvperu.tv:8001/play/a098?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Canal de prueba Canal 26
+http://cabletacna.iptvperu.tv:8001/play/a0a2?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Cartoon Network HD
 http://cabletacna.iptvperu.tv:8001/play/a00y?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Cine.AR
@@ -248,6 +285,10 @@ http://cabletacna.iptvperu.tv:8001/play/a011?0GKUSH_R4IN&DONTSTEAL
 http://cabletacna.iptvperu.tv:8001/play/golperu?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", HBO POP HD
 http://cabletacna.iptvperu.tv:8001/play/a09h?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", HEI HD
+http://cabletacna.iptvperu.tv:8001/play/a08a?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", HOLA TV HD
+http://cabletacna.iptvperu.tv:8001/play/a0a7?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", HTV
 http://cabletacna.iptvperu.tv:8001/play/a057?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", History 2
@@ -258,22 +299,30 @@ http://cabletacna.iptvperu.tv:8001/play/a084?0GKUSH_R4IN&DONTSTEAL
 http://cabletacna.iptvperu.tv:8001/play/a08d?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", MEGA HD
 http://cabletacna.iptvperu.tv:8001/play/a097?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Nat Geo HD
+http://cabletacna.iptvperu.tv:8001/play/a00h?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Nick HD
 http://cabletacna.iptvperu.tv:8001/play/a09i?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", PASIONES HD
 http://cabletacna.iptvperu.tv:8001/play/pasiones?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", POPULAR TV
+http://cabletacna.iptvperu.tv:8001/play/a082?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Paramount
+http://cabletacna.iptvperu.tv:8001/play/a0a1?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Paramount HD
 http://cabletacna.iptvperu.tv:8001/play/a00t?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", RAI Italia
+http://cabletacna.iptvperu.tv:8001/play/a01t?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", RCN EXTRA
 http://cabletacna.iptvperu.tv:8001/play/a087?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", RCN Novelas HD
-http://cabletacna.iptvperu.tv:8001/play/a09u?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", STAR CHANNEL HD
 http://cabletacna.iptvperu.tv:8001/play/a09b?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Sony HD
 http://cabletacna.iptvperu.tv:8001/play/a00e?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Sony Movies HD
 http://cabletacna.iptvperu.tv:8001/play/a005?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Space HD
+http://cabletacna.iptvperu.tv:8001/play/a00r?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Space HD
 http://cabletacna.iptvperu.tv:8001/play/a09d?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Star Channel HD
@@ -286,6 +335,8 @@ http://cabletacna.iptvperu.tv:8001/play/a08f?0GKUSH_R4IN&DONTSTEAL
 http://cabletacna.iptvperu.tv:8001/play/goldenplush?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TLNovelas
 http://cabletacna.iptvperu.tv:8001/play/a03w?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TN HD
+http://cabletacna.iptvperu.tv:8001/play/a009?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TNT HD
 http://cabletacna.iptvperu.tv:8001/play/a017?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TNT Novelas HD
@@ -296,10 +347,10 @@ http://cabletacna.iptvperu.tv:8001/play/a018?0GKUSH_R4IN&DONTSTEAL
 http://cabletacna.iptvperu.tv:8001/play/a00p?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TV Publica HD
 http://cabletacna.iptvperu.tv:8001/play/a007?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TV-MUSIC
-http://cabletacna.iptvperu.tv:8001/play/a09t?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Telefe HD
 http://cabletacna.iptvperu.tv:8001/play/a016?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Televisa Telenovelas
+http://cabletacna.iptvperu.tv:8001/play/a0a3?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", The History Channel HD
 http://cabletacna.iptvperu.tv:8001/play/a00i?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", TyC Sports HD
@@ -307,9 +358,9 @@ http://cabletacna.iptvperu.tv:8001/play/a00n?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Universal HD
 http://cabletacna.iptvperu.tv:8001/play/a00k?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Warner Channel HD
-http://cabletacna.iptvperu.tv:8001/play/a00f?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Warner Channel HD
 http://cabletacna.iptvperu.tv:8001/play/a09c?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", Warner Channel HD
+http://cabletacna.iptvperu.tv:8001/play/a00f?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", el nueve HD
 http://cabletacna.iptvperu.tv:8001/play/a008?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Cable Tacna Peru" tvg-logo="logo", el trece HD
@@ -352,7 +403,256 @@ https://hls2.mywebtv.cloud/hls/sencolhd.m3u8?0GKUSH_R4IN&DONTSTEAL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6cf551b65ef233dda7ef03cee8bf4408":"ee3debba9d8acbb31e622edb62ede595"}
-http://144.22.222.241:8080/https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+http://206.0.29.164:8080/https://fq5r6s7t8u9v0wl.clarocdn.com.br/Content/Channel/SPOAEMHD/dsc1/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", 13 C
+http://astra.datelperu.com/play/a070/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", A&E HD
+http://astra.datelperu.com/play/a0cg/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ATV
+http://astra.datelperu.com/play/a0db/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ATV +
+http://astra.datelperu.com/play/a0ev/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", AXN HD
+http://astra.datelperu.com/play/a09d/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Adult Swim
+http://astra.datelperu.com/play/a06w/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", America TV HD
+http://astra.datelperu.com/play/a0ff/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Animal Planet HD
+http://astra.datelperu.com/play/a0ed/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Antena 3
+http://astra.datelperu.com/play/a05c/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Baby TV
+http://astra.datelperu.com/play/a06b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", CHV HD
+http://astra.datelperu.com/play/a080/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", CNN Espaæol
+http://astra.datelperu.com/play/a06d/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Canal 24 Horas
+http://astra.datelperu.com/play/a08b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Canal Claro
+http://astra.datelperu.com/play/a0ep/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Canal N
+http://astra.datelperu.com/play/a09s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Cartoon Network HD
+http://astra.datelperu.com/play/a0ef/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Cartoonito
+http://astra.datelperu.com/play/a06k/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Cinecanal HD
+http://astra.datelperu.com/play/a099/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Cinemax
+http://astra.datelperu.com/play/a0eg/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Claro sport
+http://astra.datelperu.com/play/a0eo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Comedy Central HD
+http://astra.datelperu.com/play/a0ec/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", DHE
+http://astra.datelperu.com/play/a08f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", DW Espaæol
+http://astra.datelperu.com/play/a05k/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", De PelŦcula
+http://astra.datelperu.com/play/a0f2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery Channel  HD
+http://astra.datelperu.com/play/a095/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery H&H
+http://astra.datelperu.com/play/a05z/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery Kids HD
+http://astra.datelperu.com/play/a06a/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery Science
+http://astra.datelperu.com/play/a06n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery Theater HD
+http://astra.datelperu.com/play/a07y/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery Turbo
+http://astra.datelperu.com/play/a06i/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Discovery World HD
+http://astra.datelperu.com/play/a0cn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Disney Channel HD
+http://astra.datelperu.com/play/a09g/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Disney Jr.
+http://astra.datelperu.com/play/a06h/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Distrito Comedia
+http://astra.datelperu.com/play/a04p/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Dsport HD
+http://astra.datelperu.com/play/Dsport/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", E! Entertainment TV
+http://astra.datelperu.com/play/a06o/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 2 HD
+http://astra.datelperu.com/play/a0fe/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 3 HD
+http://astra.datelperu.com/play/a0cp/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 4 HD
+http://astra.datelperu.com/play/a09i/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 5 HD
+http://astra.datelperu.com/play/a0ck/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 6 HD
+http://astra.datelperu.com/play/a0ce/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN 7 HD
+http://astra.datelperu.com/play/a09a/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN HD
+http://astra.datelperu.com/play/a08c/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ESPN Premium HD
+http://astra.datelperu.com/play/a08g/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", El Gourmet HD
+http://astra.datelperu.com/play/a0ci/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", El Trece
+http://astra.datelperu.com/play/a05b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Eurochannel
+http://astra.datelperu.com/play/a05d/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Europa Europa
+http://astra.datelperu.com/play/a04k/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", FX HD
+http://astra.datelperu.com/play/a09j/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Film&Arts
+http://astra.datelperu.com/play/a048/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Food Network
+http://astra.datelperu.com/play/a08d/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", France 24
+http://astra.datelperu.com/play/a05h/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Global
+http://astra.datelperu.com/play/a0dc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Gol Peru HD
+http://astra.datelperu.com/play/a0bs/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Golden Edge
+http://astra.datelperu.com/play/a04h/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Golden HD
+http://astra.datelperu.com/play/a043/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Golf Channel
+http://astra.datelperu.com/play/a04e/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO 2
+http://astra.datelperu.com/play/a04n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO Family HD
+http://astra.datelperu.com/play/a08h/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO HD
+http://astra.datelperu.com/play/a0cm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO Mundi
+http://astra.datelperu.com/play/a05f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO POP HD
+http://astra.datelperu.com/play/a084/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO Plus
+http://astra.datelperu.com/play/a04m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO Signature
+http://astra.datelperu.com/play/a05e/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HBO Xtreme HD
+http://astra.datelperu.com/play/a08i/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HGTV
+http://astra.datelperu.com/play/a06r/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", HTV
+http://astra.datelperu.com/play/a04b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", History 2
+http://astra.datelperu.com/play/a044/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", History Channel HD
+http://astra.datelperu.com/play/a096/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Home & Health HD
+http://astra.datelperu.com/play/a06c/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", ID HD
+http://astra.datelperu.com/play/a09e/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", LA TELE
+http://astra.datelperu.com/play/a0es/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", La Red
+http://astra.datelperu.com/play/a08a/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Las Estrellas HD
+http://astra.datelperu.com/play/a08e/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Latina HD
+http://astra.datelperu.com/play/a0fg/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Lifetime
+http://astra.datelperu.com/play/a06u/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Liga 1 Max HD
+http://astra.datelperu.com/play/a0bo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", MEGA HD
+http://astra.datelperu.com/play/a086/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Movistar Deportes
+http://astra.datelperu.com/play/a09n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Mas Chic
+http://astra.datelperu.com/play/a04a/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", NTN24
+http://astra.datelperu.com/play/a04c/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Nat Geo HD
+http://astra.datelperu.com/play/a0ee/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Nick Jr.
+http://astra.datelperu.com/play/a06l/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Nick Music
+http://astra.datelperu.com/play/a046/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Nickelodeon HD
+http://astra.datelperu.com/play/a085/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Nuestra Tele
+http://astra.datelperu.com/play/a045/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", OROMAR TV
+http://astra.datelperu.com/play/a04s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", PLUS TV LIFE
+http://astra.datelperu.com/play/a09q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Panamericana
+http://astra.datelperu.com/play/a0da/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Paramount HD
+http://astra.datelperu.com/play/a0cf/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Pasiones HD
+http://astra.datelperu.com/play/a081/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Playboy HD
+http://astra.datelperu.com/play/a0cd/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Plim Plim HD
+http://astra.datelperu.com/play/a0bq/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", REC TV
+http://astra.datelperu.com/play/a07v/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", RPP
+http://astra.datelperu.com/play/a058/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", RTU
+http://astra.datelperu.com/play/a04q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Sextreme
+http://astra.datelperu.com/play/a05g/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Sony HD
+http://astra.datelperu.com/play/a09b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Sony Movies
+http://astra.datelperu.com/play/a06f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Space HD
+http://astra.datelperu.com/play/a09f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Star Channel HD
+http://astra.datelperu.com/play/a09k/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Studio Universal HD
+http://astra.datelperu.com/play/a0fb/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Sun Channel HD
+http://astra.datelperu.com/play/a08j/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TCM
+http://astra.datelperu.com/play/a04j/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TLC
+http://astra.datelperu.com/play/a06m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TNT HD
+http://astra.datelperu.com/play/a098/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TNT Novelas HD
+http://astra.datelperu.com/play/a0eb/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TNT Series HD
+http://astra.datelperu.com/play/a0cl/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TNT Sports Premiun HD
+http://astra.datelperu.com/play/a082/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TV PERU
+http://astra.datelperu.com/play/a09r/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TV+
+http://astra.datelperu.com/play/a088/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TVE
+http://astra.datelperu.com/play/a06z/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", TVN HD
+http://astra.datelperu.com/play/a07z/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Teen Nick
+http://astra.datelperu.com/play/a047/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Telefe
+http://astra.datelperu.com/play/a06s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Telemundo
+http://astra.datelperu.com/play/a06p/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Tlnovelas
+http://astra.datelperu.com/play/a0f1/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Tooncast
+http://astra.datelperu.com/play/a06q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", UNIVERSAL CHANNEL HD
+http://astra.datelperu.com/play/a0cj/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", USA
+http://astra.datelperu.com/play/a04g/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Venus
+http://astra.datelperu.com/play/a04o/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Via X Esports
+http://astra.datelperu.com/play/a04f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", WILLAX
+http://astra.datelperu.com/play/a0eh/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Datel Peru" tvg-logo="logo", Warner TV HD
+http://astra.datelperu.com/play/a09c/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="DensGO" tvg-logo="logo", Rock Entertainment
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -428,17 +728,7 @@ https://lb.digicom.bg:8443/VIPComedy/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7a100e0455dec1d27ea68eac2444a057":"518d58d1998e35f07ae8aa7a7716613a"}
 http://atlas.cdmx.gob.mx:8089/https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 group-title="DGO" tvg-logo="logo", AMC Series
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"dfc77b4e965f5a638e76e0203782e41b":"fc942e3d37ce67a81979a7277e81d61d"}
-http://atlas.cdmx.gob.mx:8089/https://1161-tbx.vrioott.com/maschic/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="DGO" tvg-logo="logo", Cine Latino
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d9fa54005f23593b8a5ea3a610715285":"f976a85e90c20ed5c012d31d22d2f305"}
-http://atlas.cdmx.gob.mx:8089/https://1045-tbx.vrioott.com/cinelatino/manifest.mpd?0GKUSH_R4IN&DONTSTEAL
+dgo
 #EXTM3U
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="logo", A&E HD
 http://45.5.119.97:12500/play/a03i/index.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -501,6 +791,271 @@ http://45.5.119.97:12500/play/a062/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.lyngsat.com/logo/tv/uu/unimas_este.png", Unimás
 https://tkx.mp.lura.live/rest/v2/mcp/video/univision-unimas?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n
 #EXTM3U
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", RCN HD
+http://astra.fibernetisp.com.co/play/a03s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal RCN FHD
+http://astra.fibernetisp.com.co/play/a0b5/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Caracol HD
+http://astra.fibernetisp.com.co/play/a03r/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Caracol FHD
+http://astra.fibernetisp.com.co/play/a0b4/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Origen Channel HD
+http://astra.fibernetisp.com.co/play/a0fh/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Señal Colombia HD
+http://astra.fibernetisp.com.co/play/a09n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Congreso
+http://astra.fibernetisp.com.co/play/a09o/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Win Sports SD
+http://astra.fibernetisp.com.co/play/a04g/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Win Sports+ HD
+http://astra.fibernetisp.com.co/play/a0b2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", France 24 SD
+http://astra.fibernetisp.com.co/play/a0cn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Enlace HD
+http://astra.fibernetisp.com.co/play/a063/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Conectados con Dios
+http://astra.fibernetisp.com.co/play/a0fj/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Teleamiga
+http://astra.fibernetisp.com.co/play/a0dv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TELEVID
+http://astra.fibernetisp.com.co/play/a0rv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", CaliTV HD
+http://astra.fibernetisp.com.co/play/a0ct/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Teleantioquia SD
+http://astra.fibernetisp.com.co/play/a09r/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Teleislas HD
+http://astra.fibernetisp.com.co/play/a08k/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Raizal TV HD
+http://astra.fibernetisp.com.co/play/a0fq/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Trece SD
+http://astra.fibernetisp.com.co/play/a09q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Zoom SD
+http://astra.fibernetisp.com.co/play/a03x/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal 2 Cali HD
+http://astra.fibernetisp.com.co/play/a0n5/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", CGTN SD
+http://astra.fibernetisp.com.co/play/a0ci/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Antigua SD
+http://astra.fibernetisp.com.co/play/a0fn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal 6
+http://astra.fibernetisp.com.co/play/a0fo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", LTV HD
+http://astra.fibernetisp.com.co/play/a0fk/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TV+
+http://astra.fibernetisp.com.co/play/a0fm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TNH SD
+http://astra.fibernetisp.com.co/play/a0fp/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal publico de Argentina SD
+http://astra.fibernetisp.com.co/play/a0dw/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Venevision
+http://astra.fibernetisp.com.co/play/a0os/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TVN HD
+http://astra.fibernetisp.com.co/play/a0cg/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Globovision SD
+http://astra.fibernetisp.com.co/play/a0gh/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TV Galicia SD
+http://astra.fibernetisp.com.co/play/a07f/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Ecuavisa SD
+http://astra.fibernetisp.com.co/play/a0gm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Oromar SD
+http://astra.fibernetisp.com.co/play/a0gk/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Unitel SD
+http://astra.fibernetisp.com.co/play/a0g5/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", MEGA
+http://astra.fibernetisp.com.co/play/a0fs/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Caracol 2 TDT
+http://astra.fibernetisp.com.co/play/a0e2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal RCN 2 TDT
+http://astra.fibernetisp.com.co/play/a0e3/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal 1 SD
+http://astra.fibernetisp.com.co/play/a09l/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Capital SD
+http://astra.fibernetisp.com.co/play/a09p/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal FBN HD
+http://astra.fibernetisp.com.co/play/a09h/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal Institucional HD
+http://astra.fibernetisp.com.co/play/a09m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal TRO SD
+http://astra.fibernetisp.com.co/play/a09v/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", City TV SD
+http://astra.fibernetisp.com.co/play/a08l/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cristovision SD
+http://astra.fibernetisp.com.co/play/a0cq/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", DW Espanol HD
+http://astra.fibernetisp.com.co/play/a0ay/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", EWTN SD
+http://astra.fibernetisp.com.co/play/a0c0/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Telecafe SD
+http://astra.fibernetisp.com.co/play/a09u/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Telecaribe SD
+http://astra.fibernetisp.com.co/play/a09s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Telepacifico SD
+http://astra.fibernetisp.com.co/play/a09t/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN HD
+http://astra.fibernetisp.com.co/play/a0a9/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 2 HD
+http://astra.fibernetisp.com.co/play/a0dp/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 3 HD
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 4 HD
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 5 HD
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 2 LATAM HD
+http://astra.fibernetisp.com.co/play/a076/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 6 HD
+http://astra.fibernetisp.com.co/play/a0ae/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Baby TV SD
+http://astra.fibernetisp.com.co/play/a073/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery Kids HD
+http://astra.fibernetisp.com.co/play/a0da/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Disney Junior SD
+http://astra.fibernetisp.com.co/play/a0dm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Nickelodeon HD
+http://astra.fibernetisp.com.co/play/a071/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cartoon Network
+http://astra.fibernetisp.com.co/play/a072/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Tooncast SD
+http://astra.fibernetisp.com.co/play/a07b/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery Turbo SD
+http://astra.fibernetisp.com.co/play/a0pa/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery Science SD
+http://astra.fibernetisp.com.co/play/a0m2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ID HD
+http://astra.fibernetisp.com.co/play/a0jk/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery H&H HD
+http://astra.fibernetisp.com.co/play/a0i8/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery World HD
+http://astra.fibernetisp.com.co/play/a0iq/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Animal Planet HD
+http://astra.fibernetisp.com.co/play/a05s/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery Theater HD
+http://astra.fibernetisp.com.co/play/a05q/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Discovery HD
+http://astra.fibernetisp.com.co/play/a05r/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Nat Geo HD
+http://astra.fibernetisp.com.co/play/a05x/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TLC SD
+http://astra.fibernetisp.com.co/play/a07a/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", History Channel HD
+http://astra.fibernetisp.com.co/play/a05y/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", History 2
+http://astra.fibernetisp.com.co/play/a0kl/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Hogar TV
+http://astra.fibernetisp.com.co/play/a0sh/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", CNN Espanol SD
+http://astra.fibernetisp.com.co/play/a0db/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Golden EDGE HD
+http://astra.fibernetisp.com.co/play/a0m8/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", FX HD
+http://astra.fibernetisp.com.co/play/a05p/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", STAR Channel HD
+http://astra.fibernetisp.com.co/play/a061/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TNT HD
+http://astra.fibernetisp.com.co/play/a062/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HBO 2
+http://astra.fibernetisp.com.co/play/a0di/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Studio Universal HD
+http://astra.fibernetisp.com.co/play/a0do/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Universal Channel HD
+http://astra.fibernetisp.com.co/play/a060/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cinecanal HD
+http://astra.fibernetisp.com.co/play/a05z/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TCM SD
+http://astra.fibernetisp.com.co/play/a097/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", DHE HD
+http://astra.fibernetisp.com.co/play/a065/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TNT Series HD
+http://astra.fibernetisp.com.co/play/a0ii/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", De pelicula SD
+http://astra.fibernetisp.com.co/play/a0m9/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", AZ Click
+http://astra.fibernetisp.com.co/play/a0si/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Univision HD
+http://astra.fibernetisp.com.co/play/a0ma/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HGTV
+http://astra.fibernetisp.com.co/play/a0ll/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", E! Entertainment
+http://astra.fibernetisp.com.co/play/a075/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Las Estrellas HD
+http://astra.fibernetisp.com.co/play/a0ac/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Telemundo HD
+http://astra.fibernetisp.com.co/play/a0af/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Pasiones HD
+http://astra.fibernetisp.com.co/play/a0j7/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TNT Novelas HD
+http://astra.fibernetisp.com.co/play/a0k8/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", tlnovelas SD
+http://astra.fibernetisp.com.co/play/a0m6/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", AZ Corazon
+http://astra.fibernetisp.com.co/play/a0go/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Telenostalgia HD
+http://astra.fibernetisp.com.co/play/a0mm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Rumba TV HD
+http://astra.fibernetisp.com.co/play/a0lm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", A&E HD
+http://astra.fibernetisp.com.co/play/a05u/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", AMC HD
+http://astra.fibernetisp.com.co/play/a0is/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ATRES Series
+http://astra.fibernetisp.com.co/play/a0jh/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", AXN HD
+http://astra.fibernetisp.com.co/play/a05n/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Adult Swim
+http://astra.fibernetisp.com.co/play/a0jl/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cable Noticias HD
+http://astra.fibernetisp.com.co/play/a0ln/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Canal 24 Horas HD
+http://astra.fibernetisp.com.co/play/a0o8/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cartoonito SD
+http://astra.fibernetisp.com.co/play/a0lp/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Cinemax HD
+http://astra.fibernetisp.com.co/play/a05l/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Comedy Central HD
+http://astra.fibernetisp.com.co/play/a0jj/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Disney HD
+http://astra.fibernetisp.com.co/play/a074/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Dreamswork HD
+http://astra.fibernetisp.com.co/play/a0lo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN 7 HD
+http://astra.fibernetisp.com.co/play/a0ad/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", ESPN HD
+http://astra.fibernetisp.com.co/play/a0p2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", El Gourmet HD
+http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Golden HD
+http://astra.fibernetisp.com.co/play/a0m4/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HBO Family HD
+http://astra.fibernetisp.com.co/play/a0dl/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HBO HD
+http://astra.fibernetisp.com.co/play/a0ax/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HBO POP HD
+http://astra.fibernetisp.com.co/play/a0dj/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HBO XTREME HD
+http://astra.fibernetisp.com.co/play/a0dk/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", HOLA TV HD
+http://astra.fibernetisp.com.co/play/a0j9/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Lolly Kids HD
+http://astra.fibernetisp.com.co/play/a0k9/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Love Nature HD
+http://astra.fibernetisp.com.co/play/a0ka/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", MTV
+http://astra.fibernetisp.com.co/play/a0op/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Paramount HD
+http://astra.fibernetisp.com.co/play/a0ix/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Sony HD
+http://astra.fibernetisp.com.co/play/a05m/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Space HD
+http://astra.fibernetisp.com.co/play/a05o/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Sun Channel HD
+http://astra.fibernetisp.com.co/play/a0oc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", TV Agro HD
+http://astra.fibernetisp.com.co/play/a0lk/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Televicentro
+http://astra.fibernetisp.com.co/play/a0ov/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Fibernet ISP" tvg-logo="logo", Warner Channel HD
+http://astra.fibernetisp.com.co/play/a05t/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="Fox Sports MX" tvg-logo="logo", Fox Sports 1 MX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -544,6 +1099,21 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8?0GKUSH_R4IN&DONTST
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", AMC
+https://iptv2.intersurtv.cl/AMC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", ARTV
+https://iptv2.intersurtv.cl/ARTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", Cine Latino
+https://iptv2.intersurtv.cl/CINELATINO_HD/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", Cinecanal
+https://iptv2.intersurtv.cl/CINECANAL/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", Pasiones
+https://iptv2.intersurtv.cl/PASIONESHD/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", Teletrak
+https://iptv2.intersurtv.cl/TELETRAK/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="InterSurTV CL" tvg-logo="logo", Zona Latina
+https://iptv2.intersurtv.cl/ZONALATINA/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="Izzi Go MX" group-logo="https://i.ibb.co/CpXv6Vx7/492x0w.webp" tvg-logo="logo", A&E
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -638,6 +1208,43 @@ https://dvr2.kablova.tv/Nova_Sport/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://dvr2.kablova.tv/Playboy/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Káblová TV SK" tvg-logo="logo", TLC
 https://dvr1.kablova.tv/TLC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Colors Cineplex
+https://karostream.tulix.tv/ColorsCineplex/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Colors Rishtey
+https://karostream.tulix.tv/ColorsRishtey/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Hamdard TV
+https://karostream.tulix.tv/Hamdard/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", India TV
+https://karostream.tulix.tv/IndiaTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Mirror Now
+https://karostream.tulix.tv/MirrorNow/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC Chakde
+https://karostream.tulix.tv/Ptcchakde/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC Dhol TV
+https://karostream.tulix.tv/Ptcdholtv/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC News
+https://karostream.tulix.tv/Ptcnews/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC Punjabi
+https://karostream.tulix.tv/Ptcpunjabi/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC Punjabi Gold
+https://karostream.tulix.tv/Ptcpunjabigold/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", PTC Simran
+https://karostream.tulix.tv/Ptcsimran/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Shemaroo Bollywood
+https://karostream.tulix.tv/ShemarooBollywood/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Times Now
+https://karostream.tulix.tv/TimesNow/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Virasat Media
+https://karostream.tulix.tv/VIRASATMEDIA/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Willow Sports
+https://karostream.tulix.tv/WillowSports/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Zee Cinema
+https://karostream.tulix.tv/ZEECINEMA/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Zee News
+https://karostream.tulix.tv/ZEENEWS/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="KaroStream" tvg-logo="logo", Zoom
+https://karostream.tulix.tv/Zoom/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="KlowdTV" tvg-logo="logo", AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -808,6 +1415,67 @@ https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2f2032b4cae944a0adf5ce111a2ff693":"2b4a2855b0abde035714985be6db4bd0"}
 https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Acocina
+https://cdn.mic.net.pe/ACOCINA/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Comercio TV
+https://cdn.mic.net.pe/COMERCIO_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", DmKidsTV
+https://cdn.mic.net.pe/DM_KIDS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Eco TV
+https://cdn.mic.net.pe/ECO_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", EnerGeek Fan
+https://cdn.mic.net.pe/ENERGEEK_FAN/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo",  Esports Max
+https://cdn.mic.net.pe/ESPORT_MAX/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo",  Esports Max 2
+https://cdn.mic.net.pe/ESPORT_MAX_2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", FHM Movies
+https://cdn.mic.net.pe/FMH_MOVIES/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", FMH Family
+https://cdn.mic.net.pe/FMH_FAMILY/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", FMH Kids
+https://cdn.mic.net.pe/FMH_KIDS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Gracia TV
+https://cdn.mic.net.pe/GRACIA/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Inka Vision
+https://cdn.mic.net.pe/INKA_VISION/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Kanade
+https://cdn.mic.net.pe/KANADE/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Max Anime
+https://cdn.mic.net.pe/MAX_ANIME/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias Classic
+https://cdn.mic.net.pe/MEMORIAS_CLASSIC_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias Film
+https://cdn.mic.net.pe/MEMORIAS_FILM_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias Series
+https://cdn.mic.net.pe/MEMORIAS_SERIES_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias Toons
+https://cdn.mic.net.pe/MEMORIAS_TOONS_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias Tropical
+https://cdn.mic.net.pe/MEMORIAS_TROPICAL_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Memorias TV
+https://cdn.mic.net.pe/MEMORIAS_TV_DIRECTO/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Nativa
+https://cdn.mic.net.pe/NATIVA/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", NeoTV
+https://cdn.mic.net.pe/Neotv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Ovacion
+https://cdn.mic.net.pe/OVACION/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Pasiones
+https://cdn.mic.net.pe/PASIONES/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Piura TV
+https://cdn.mic.net.pe/PIURA_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Ruidos TV
+https://cdn.mic.net.pe/RUIDOS_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Suyai TV
+https://cdn.mic.net.pe/SUYAI_TV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", TVM Chile
+https://cdn.mic.net.pe/TVM/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", Zkids
+https://cdn.mic.net.pe/ZKIDS/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="MIC PE" group-logo="https://r4inisback.github.io/tweb/logos/mic-pe.png" tvg-logo="logo", ZTV
+https://cdn.mic.net.pe/ZTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="MoveOnJoy" tvg-logo="logo", ABC
 https://fl1.moveonjoy.com/ABC/index.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -1528,7 +2196,7 @@ http://cloud.flynet.sv:1935/live/canal-112/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 http://cloud.flynet.sv:1935/live/canal-113/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Canal 3
 http://cloud.flynet.sv:1935/live/canal-114/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", 115
+#EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", MGM+ Hits
 http://cloud.flynet.sv:1935/live/canal-115/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Netplay SV" tvg-logo="logo", Telesur
 http://cloud.flynet.sv:1935/live/canal-116/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -2032,6 +2700,21 @@ https://ott.streann.com/loadbalancer/services/public/channels/667330098f0838b057
 https://ott.streann.com/loadbalancer/services/public/channels/68db25728f08db798aa6a841/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="TDMAX" tvg-logo="https://img.streann.tech/streann-img/61316705e4b0295f87dae396/channel/1759192505482.png",Calle 7 | Teletica Eventos 8
 https://ott.streann.com/loadbalancer/services/public/channels/68db260b8f08db798aa6a8fa/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Ahora TV
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/ahoratv.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Canal del Sol
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/canaldelsol.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Cubavisión
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/cubavision.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Faro Vision
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/farovision.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Sumundo TV
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/sumundotv.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Telecentro
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/telecentro.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Telecable Sanchez República Dominicana" tvg-logo="logo", Teleuniverso
+https://telecablesanchez.groupinmotion.com:1936/transcoder1/teleuniverso.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="Tumm TV CR" tvg-logo="logo", Antena Seis
 https://streaming.tumm.tv/10303/notoken/hls/antenaseis/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -3230,6 +3913,181 @@ https://tvpass.org/live/WPIX/hd?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="TV Pass" tvg-logo="logo", Yes Network HD
 https://tvpass.org/live/yes-network/hd?0GKUSH_R4IN&DONTSTEAL 
 #EXTM3U
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Agrotendencia
+https://cdnbarinas.tvzamora.com/agrotendencia/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", AMC
+https://cdnbarinas.tvzamora.com/amc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", AMC Series
+https://cdnbarinas.tvzamora.com/amcseries/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ANTV
+https://cdnbarinas.tvzamora.com/antv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", A&E
+https://cdnbarinas.tvzamora.com/aye/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", AXN
+https://cdnbarinas.tvzamora.com/axn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Baby TV
+https://cdnbarinas.tvzamora.com/babytv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", BitMe
+https://cdnbarinas.tvzamora.com/bitme/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Canal i
+https://cdnbarinas.tvzamora.com/canali/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Canal Capital
+https://cdnbarinas.tvzamora.com/canalcapital/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Canal Diplomático
+https://cdnbarinas.tvzamora.com/canaldiplomatico/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Cartoon Network
+https://cdnbarinas.tvzamora.com/cartoon_network/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Cartoonito
+https://cdnbarinas.tvzamora.com/cartoonito/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", CGTN
+https://cdnbarinas.tvzamora.com/cgtn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Cinecanal
+https://cdnbarinas.tvzamora.com/cinecanal/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Cine Latino
+https://cdnbarinas.tvzamora.com/cinelatino/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Cinemax
+https://cdnbarinas.tvzamora.com/cinemax/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", City TV
+https://cdnbarinas.tvzamora.com/citytv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Colombeia
+https://cdnbarinas.tvzamora.com/colombeia/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Comedy Central
+https://cdnbarinas.tvzamora.com/comedy_central/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", De Pelicula
+https://cdnbarinas.tvzamora.com/depelicula/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Discovery Kids
+https://cdnbarinas.tvzamora.com/discoverykids/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Disney Channel
+https://cdnbarinas.tvzamora.com/disneychannel/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Distrito Comedia
+https://cdnbarinas.tvzamora.com/distritocomedia/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", El Gourmet
+https://cdnbarinas.tvzamora.com/elgourmet/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Enlace
+https://cdnbarinas.tvzamora.com/enlace/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN
+https://cdnbarinas.tvzamora.com/espn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 2
+https://cdnbarinas.tvzamora.com/espn2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 3
+https://cdnbarinas.tvzamora.com/espn3/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 4
+https://cdnbarinas.tvzamora.com/espn4/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 5
+https://cdnbarinas.tvzamora.com/espn5/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 6
+https://cdnbarinas.tvzamora.com/espn6/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", ESPN 7
+https://cdnbarinas.tvzamora.com/espn7/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", EWTN
+https://cdnbarinas.tvzamora.com/ewtn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Food Network
+https://cdnbarinas.tvzamora.com/food_network/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", FX
+https://cdnbarinas.tvzamora.com/fx/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Globovisión
+https://cdnbarinas.tvzamora.com/globovision/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Golden
+https://cdnbarinas.tvzamora.com/golden/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Golden Edge
+https://cdnbarinas.tvzamora.com/goldenedge/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Golden Plus
+https://cdnbarinas.tvzamora.com/golden_plus/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Golden Premier
+https://cdnbarinas.tvzamora.com/goldenpremier/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO HD
+https://cdnbarinas.tvzamora.com/hbohd/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO 2
+https://cdnbarinas.tvzamora.com/hbo2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO Family
+https://cdnbarinas.tvzamora.com/hbofamily/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO Mundi
+https://cdnbarinas.tvzamora.com/hbomundi/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO Pop
+https://cdnbarinas.tvzamora.com/hbopop/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO Signature
+https://cdnbarinas.tvzamora.com/hbosignature/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HBO Xtreme
+https://cdnbarinas.tvzamora.com/hboxtreme/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HGTV
+https://cdnbarinas.tvzamora.com/hgtv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Hispan TV
+https://cdnbarinas.tvzamora.com/hispantv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", History
+https://cdnbarinas.tvzamora.com/history/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", History 2
+https://cdnbarinas.tvzamora.com/history2/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", HTV
+https://cdnbarinas.tvzamora.com/htv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", IVC
+https://cdnbarinas.tvzamora.com/ivc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Lifetime
+https://cdnbarinas.tvzamora.com/lifetime/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Max Anime
+https://cdnbarinas.tvzamora.com/max_anime/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", MTV
+https://cdnbarinas.tvzamora.com/mtv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Nickelodeon
+https://cdnbarinas.tvzamora.com/nickelodeon/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Nick Jr
+https://cdnbarinas.tvzamora.com/nickjr/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Paramount
+https://cdnbarinas.tvzamora.com/paramount/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Playboy
+https://cdnbarinas.tvzamora.com/playboy/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Sony
+https://cdnbarinas.tvzamora.com/sony/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Sony Movies
+https://cdnbarinas.tvzamora.com/sonymovies/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Space
+https://cdnbarinas.tvzamora.com/space/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", SportsMax News
+https://cdnbarinas.tvzamora.com/sportsmaxnews/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Star Channel
+https://cdnbarinas.tvzamora.com/starchannel/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Studio Universal
+https://cdnbarinas.tvzamora.com/studiouniversal/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Sun Channel
+https://cdnbarinas.tvzamora.com/sunchannel/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TCM
+https://cdnbarinas.tvzamora.com/tcm/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Telehit
+https://cdnbarinas.tvzamora.com/telehit/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Telemundo Internacional
+https://cdnbarinas.tvzamora.com/telemundo/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Telesur
+https://cdnbarinas.tvzamora.com/telesur/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Televen
+https://cdnbarinas.tvzamora.com/televen/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TLT
+https://cdnbarinas.tvzamora.com/tlt/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TLC
+https://cdnbarinas.tvzamora.com/tlc/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TNT HD
+https://cdnbarinas.tvzamora.com/tnthd/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TNT Series
+https://cdnbarinas.tvzamora.com/tntseries/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Tooncast
+https://cdnbarinas.tvzamora.com/tooncast/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TVE
+https://cdnbarinas.tvzamora.com/tve/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", TVES
+https://cdnbarinas.tvzamora.com/tves/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Universal Channel
+https://cdnbarinas.tvzamora.com/universalchannel/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Vale TV
+https://cdnbarinas.tvzamora.com/valetv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Ve Plus
+https://cdnbarinas.tvzamora.com/veplus/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Venus
+https://cdnbarinas.tvzamora.com/venus/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", VTV
+https://cdnbarinas.tvzamora.com/vtv/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", Warner
+https://cdnbarinas.tvzamora.com/warner/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="TV Zamora VE" tvg-logo="logo", WOBI
+https://cdnbarinas.tvzamora.com/wobi/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="Universal+" group-logo="logo" tvg-logo="logo", Universal Premiere
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3279,19 +4137,6 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 #EXTM3U
 #EXTINF:-1 group-title="United Kingdom" tvg-logo="logo", Blaze UK
 https://cors.almoroj.com/https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTM3U
-#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", FETV
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", USA NETWORK
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://gcdn-p9.teleuptv.net/d0dd02fc-b77f-4465-b077-4a6a2e1a0524/index.m3u8?0GKUSH_R4IN&DONTSTEAL
-#EXTINF:-1 group-title="USTVNow" tvg-logo="logo", WGN 9
-#EXTVLCOPT:http-referrer=https://www.ustvnow.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://gcdn-p8.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="USA Entertainment" tvg-logo="logo", BET East
 https://cors-proxy.cooks.fyi/https://propefh1c17d.airspace-cdn.cbsivideo.com/out/v1/99d9cb48069746a7aeb98f51b9ec7e54/manifest.m3u8?0GKUSH_R4IN&DONTSTEAL
@@ -3379,6 +4224,41 @@ https://s9.usnlive.com/stream/msnbc.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://s0.usnlive.com/stream/oann.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", 12TV
+http://flu5vegafibratvcom/12TV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", AXN España
+http://flu5vegafibratvcom/axn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", DKISS España
+http://flu5vegafibratvcom/dkiss/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", La 2
+http://flu5vegafibratvcom/La2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", Real Madrid TV
+http://flu5vegafibratvcom/RealMadridTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", TeleElx
+http://flu5vegafibratvcom/TeleElx/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", Telehit
+http://flu5vegafibratvcom/TELEHIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Albatera
+http://flu5vegafibratvcom/AlbateraNEW/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Benejuzar
+http://flu5vegafibratvcom/VegaFibraBenejuzar/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Comarcal
+http://flu5vegafibratvcom/COMARCALTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Dolores
+http://flu5vegafibratvcom/VegaFibraDolores/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Gamers
+http://flu5vegafibratvcom/GameTEST/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Horadada
+http://flu5vegafibratvcom/HoradadaMONIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV San Miguel
+http://flu5vegafibratvcom/VegaFibraSanMguel/index
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Telecolor
+http://flu5vegafibratvcom/VegaFibraTelecolor/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV VegaBaja
+http://flu5vegafibratvcom/VegaFibraVegaBaja/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", WarnerTV España
+http://flu5vegafibratvcom/WarnerTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", BITME
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3455,6 +4335,21 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8u9cregwlt/o
 #KODIPROP:inputstream.adaptive.license_key={"22b9514719c7cec6117c84cd967c687a":"0c55b25c4996024e2090772bfd810e00"}
 https://a176aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/k36fpeh3iv/out/v1/2742b9ec15ba48848e8fa788001c1d4a/cenc.mpd?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Ahora TV
+https://waycomtv.groupinmotion.com:1936/transcoder1/ahoratv.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Canal del Sol
+https://waycomtv.groupinmotion.com:1936/transcoder1/canaldelsol.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Cubavisión
+https://waycomtv.groupinmotion.com:1936/transcoder1/cubavision.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Sumundo TV
+https://waycomtv.groupinmotion.com:1936/transcoder1/sumundotv.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Telecentro
+https://waycomtv.groupinmotion.com:1936/transcoder1/telecentro.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Telesur
+https://waycomtv.groupinmotion.com:1936/transcoder1/telesur.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTINF:-1 group-title="Waycom TV República Dominicana" tvg-logo="logo", Teleuniverso
+https://waycomtv.groupinmotion.com:1936/transcoder1/teleuniverso.stream/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+#EXTM3U
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Dorcel
 http://41.205.93.154/X-DORCEL/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Redlight
@@ -3466,8 +4361,6 @@ http://45.191.172.14:8028?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="NSFW" tvg-logo="logo", Venus
 http://45.5.119.97:12500/play/a04u/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
-#EXTINF:-1 group-title="Musica" tvg-logo="logo", ExaTV
-https://mvs.daioncdn.net/exatv/exatv.m3u8?app=web
 #EXTINF:-1 group-title="Musica" tvg-logo="logo", ExaTV
 http://45.5.119.97:12500/play/a05l/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="Musica" tvg-logo="logo", MTV 00s
