@@ -4225,39 +4225,39 @@ https://s9.usnlive.com/stream/msnbc.m3u8?0GKUSH_R4IN&DONTSTEAL
 https://s0.usnlive.com/stream/oann.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", 12TV
-http://flu5vegafibratvcom/12TV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/12TV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", AXN España
-http://flu5vegafibratvcom/axn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/axn/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", DKISS España
-http://flu5vegafibratvcom/dkiss/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/dkiss/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", La 2
-http://flu5vegafibratvcom/La2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/La2/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", Real Madrid TV
-http://flu5vegafibratvcom/RealMadridTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/RealMadridTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", TeleElx
-http://flu5vegafibratvcom/TeleElx/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/TeleElx/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", Telehit
-http://flu5vegafibratvcom/TELEHIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/TELEHIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Albatera
-http://flu5vegafibratvcom/AlbateraNEW/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/AlbateraNEW/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Benejuzar
-http://flu5vegafibratvcom/VegaFibraBenejuzar/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/VegaFibraBenejuzar/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Comarcal
-http://flu5vegafibratvcom/COMARCALTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/COMARCALTV/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Dolores
-http://flu5vegafibratvcom/VegaFibraDolores/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/VegaFibraDolores/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Gamers
-http://flu5vegafibratvcom/GameTEST/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/GameTEST/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Horadada
-http://flu5vegafibratvcom/HoradadaMONIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/HoradadaMONIT/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV San Miguel
-http://flu5vegafibratvcom/VegaFibraSanMguel/index
+http://flu5vegafibratv.com/VegaFibraSanMguel/index
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV Telecolor
-http://flu5vegafibratvcom/VegaFibraTelecolor/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/VegaFibraTelecolor/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", VegaFibra TV VegaBaja
-http://flu5vegafibratvcom/VegaFibraVegaBaja/index.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/VegaFibraVegaBaja/index.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTINF:-1 group-title="VegaFibra TV" tvg-logo="logo", WarnerTV España
-http://flu5vegafibratvcom/WarnerTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
+http://flu5vegafibratv.com/WarnerTV/playlist.m3u8?0GKUSH_R4IN&DONTSTEAL
 #EXTM3U
 #EXTINF:-1 group-title="VIX" tvg-logo="logo", BITME
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
